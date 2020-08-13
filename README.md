@@ -2,7 +2,7 @@
 
 A curated list of tutorials, notebooks, software, datasets, courses, books, video lectures and papers dedicated for Artificial Intelligence (AI) use in Earth Science.
 
-Contributions are most welcome.
+Contributions are most welcome. 
 
 ## Contents
 
@@ -58,4 +58,6 @@ Contributions are most welcome.
 
 ## Misc
 
+
+Maintained by ESIP Machine Learning Cluster. Free and open to inspire AI for Good.  
 
