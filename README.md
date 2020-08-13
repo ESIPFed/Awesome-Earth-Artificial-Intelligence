@@ -1,6 +1,6 @@
 # Awesome-Earth-Artificial-Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of tutorials, notebooks, software, datasets, courses, books, video lectures and papers dedicated for Artificial Intelligence (AI) use in Earth Science.
+A curated list of tutorials, notebooks, software, datasets, courses, books, video lectures and papers specifically for Artificial Intelligence (AI) use cases in Earth Science.
 
 Contributions are most welcome. 
 
