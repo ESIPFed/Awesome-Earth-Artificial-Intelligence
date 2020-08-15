@@ -13,12 +13,11 @@ Contributions are most welcome.
 5. [Code](#code)
 6. [Videos](#videos)
 7. [Learning](#learning)
-8. [Organizations](#organizations)
-9. [Journals](#journals)
-10. [Competitions](#competitions)
-11. [Newsletters](#newsletters)
-12. [Communities](#communities)
-13. [Misc](#misc)
+8. [Journals](#journals)
+9. [Competitions](#competitions)
+10. [Newsletters](#newsletters)
+11. [Communities](#communities)
+12. [Misc](#misc)
 
 ## Courses
 
@@ -29,7 +28,7 @@ Contributions are most welcome.
 
 
 
-## Trainingdata
+## Training Data for Earth Science Research
 
 
 ## Code
@@ -39,9 +38,6 @@ Contributions are most welcome.
 
 
 ## Learning
-
-
-## Organizations
 
 
 ## Journals
