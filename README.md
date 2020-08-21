@@ -23,9 +23,9 @@ Contributions are most welcome.
 
 ## Courses
 
-A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. [[github repo](https://github.com/ageron/handson-ml)]
+A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. [[repo](https://github.com/ageron/handson-ml)]
 
-
+Artificial Intelligence for Earth System Science (AI4ESS) Summer School, [[website](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school)]
 
 ## Books
 
