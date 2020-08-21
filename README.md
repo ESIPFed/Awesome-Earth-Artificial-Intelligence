@@ -55,6 +55,10 @@ OneFlow is a performance-centered and open-source deep learning framework. [[git
 
 ml.js - Machine learning tools in JavaScript. [[github repo](https://github.com/mljs/ml)]
 
+BentoML is an open-source framework for high-performance ML model serving. [[github repo](https://github.com/bentoml/BentoML)]
+
+
+
 ## Tutorials
 
 Pixel-level land cover classification, [[github repo](https://github.com/Azure/pixel_level_land_classification)]
