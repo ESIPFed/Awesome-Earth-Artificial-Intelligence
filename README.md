@@ -25,6 +25,8 @@ Contributions are most welcome.
 
 A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. [[github repo](https://github.com/ageron/handson-ml)]
 
+Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://sail.ocean.ru/viewuser.php?user=krinitsky) [[repo](https://github.com/MKrinitskiy/ML4ES_2019-2020)]
+
 
 
 ## Books
@@ -72,6 +74,10 @@ Pixel-level land cover classification, [[repo](https://github.com/Azure/pixel_le
 
 EO-learn-workshop: Bridging Earth Observation data and Machine Learning in Python, [[repo](https://github.com/sentinel-hub/eo-learn-workshop)]
 
+Machine Learning for Development: A method to Learn and Identify Earth Features from Satellite Images, [[repo](https://github.com/worldbank/ml4dev)]
+
+Intro to Machine Learning and Deep Learning for Earth-Life Sciences, [[repo](https://github.com/Machine-Learning-Tokyo/ELSI-DL-Bootcamp)]
+
 
 
 ## Training Data
@@ -98,6 +104,10 @@ Continuous Change Detection and Classification (CCDC) of land cover using all av
 
 Object-based land cover classification with Feature Extraction and Feature Selection for Google Earth Engine (GEE), [[repo](https://github.com/GERSL/CCDC)]
 
+Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning. [[repo](https://github.com/microsoft/Earth-Lens)]
+
+
+
 ## Videos
 
 
@@ -107,6 +117,7 @@ Object-based land cover classification with Feature Extraction and Feature Selec
 
 ## Competitions
 
+HackerEarth, [[link](https://www.hackerearth.com/challenges/)]
 
 ## Newsletters
 
