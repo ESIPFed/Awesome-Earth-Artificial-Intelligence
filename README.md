@@ -57,7 +57,7 @@ ml.js - Machine learning tools in JavaScript. [[repo](https://github.com/mljs/ml
 
 BentoML is an open-source framework for high-performance ML model serving. [[repo](https://github.com/bentoml/BentoML)]
 
-
+flashflight: A C++ standalone library for machine learning. [[repo](https://github.com/facebookresearch/flashlight)]
 
 ## Tutorials
 
