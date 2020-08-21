@@ -32,9 +32,15 @@ Contributions are most welcome.
 
 ## Training Data for Earth Science Research
 
+Kaggle Earth Science Training Dataset, [[link](https://www.kaggle.com/search?q=tag%3A%22earth+science%22+in%3Adatasets)]
+
+Radiant MLHub, [[link](https://www.mlhub.earth/#datasets)]
+
+Google Earth Engine Data Catalog, [[link](https://developers.google.com/earth-engine/datasets/catalog)]
 
 ## Code
 
+Deep Learning for Land-cover Classification in Hyperspectral Images, [[old code](https://github.com/KGPML/Hyperspectral)], [[BassNet](https://github.com/hbutsuak95/BASS-Net)],[[paper-preprint](https://arxiv.org/abs/1612.00144)]
 
 ## Videos
 
