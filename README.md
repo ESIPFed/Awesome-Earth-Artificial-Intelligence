@@ -102,6 +102,11 @@ Object-based land cover classification with Feature Extraction and Feature Selec
 
 ## Communities
 
+ESIP Machine Learning Cluster [[wiki](https://wiki.esipfed.org/Machine_Learning)]
+
+ESIP Agriculture and Climate Cluster [[wiki](https://wiki.esipfed.org/Agriculture_and_Climate)]
+
+
 
 ## Misc
 
