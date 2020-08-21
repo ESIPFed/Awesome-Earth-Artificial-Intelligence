@@ -33,6 +33,10 @@ A series of Jupyter notebooks that walk you through the fundamentals of Machine 
 
 ## Tools
 
+eo-learn: Earth observation processing framework for machine learning in Python, [[repo](https://github.com/sentinel-hub/eo-learn)]
+
+EarthML: Tools for working with machine learning in earth science, [[repo](https://github.com/pyviz-topics/EarthML)][[website](http://earthml.holoviz.org/)]
+
 A Visualization tool for neural network, deep learning and machine learning models, support ONNX (.onnx, .pb, .pbtxt), Keras (.h5, .keras), Core ML (.mlmodel), Caffe (.caffemodel, .prototxt), Caffe2 (predict_net.pb), Darknet (.cfg), MXNet (.model, -symbol.json), Barracuda (.nn), ncnn (.param), Tengine (.tmfile), TNN (.tnnproto), UFF (.uff) and TensorFlow Lite (.tflite). [[repo](https://github.com/lutzroeder/netron)]
 
 Dopamine is a research framework for fast prototyping of reinforcement learning algorithms, [[repo](https://github.com/google/dopamine)]
@@ -63,7 +67,7 @@ flashflight: A C++ standalone library for machine learning. [[repo](https://gith
 
 Pixel-level land cover classification, [[repo](https://github.com/Azure/pixel_level_land_classification)]
 
-## Training Data for Earth Science Research
+## Training Data
 
 Kaggle Earth Science Training Dataset, [[link](https://www.kaggle.com/search?q=tag%3A%22earth+science%22+in%3Adatasets)]
 
