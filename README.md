@@ -25,8 +25,6 @@ Contributions are most welcome.
 
 A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. [[github repo](https://github.com/ageron/handson-ml)]
 
-Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://sail.ocean.ru/viewuser.php?user=krinitsky) [[repo](https://github.com/MKrinitskiy/ML4ES_2019-2020)]
-
 
 
 ## Books
