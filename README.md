@@ -30,7 +30,7 @@ Contributions are most welcome.
 
 ## Tutorials
 
-Pixel-level land cover classification, [[link](https://github.com/Azure/pixel_level_land_classification)]
+Pixel-level land cover classification, [[github repo](https://github.com/Azure/pixel_level_land_classification)]
 
 ## Training Data for Earth Science Research
 
@@ -40,11 +40,19 @@ Radiant MLHub, [[link](https://www.mlhub.earth/#datasets)]
 
 Google Earth Engine Data Catalog, [[link](https://developers.google.com/earth-engine/datasets/catalog)]
 
-EuroSAT Dataset: Land Use and Land Cover Classification with Sentinel-2, [[link](https://github.com/phelber/EuroSAT)]
+EuroSAT Dataset: Land Use and Land Cover Classification with Sentinel-2, [[github repo](https://github.com/phelber/EuroSAT)]
 
 ## Code
 
 Deep Learning for Land-cover Classification in Hyperspectral Images, [[old code](https://github.com/KGPML/Hyperspectral)], [[BassNet](https://github.com/hbutsuak95/BASS-Net)],[[paper-preprint](https://arxiv.org/abs/1612.00144)]
+
+Multitemporal Land Cover Classification Network (ConvLSTM, ConvGRU), [[code](https://github.com/TUM-LMF/MTLCC)]
+
+Landsat Time Series Analysis for Multi-Temporal Land Cover Classification, [[code](https://github.com/agr-ayush/Landsat-Time-Series-Analysis-for-Multi-Temporal-Land-Cover-Classification)] 
+
+Deep Learning on Google Earth Engine, [[github repo](https://github.com/ucalyptus/EarthEngine-Deep-Learning)]
+
+
 
 ## Videos
 
