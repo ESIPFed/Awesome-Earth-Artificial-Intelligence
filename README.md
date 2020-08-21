@@ -10,7 +10,7 @@ Contributions are most welcome.
 
 1. [Courses](#courses)
 2. [Books](#books)
-3. [Programming](#programming)
+3. [Tutorials](#tutorials)
 4. [Training Datasets](#traningdata)
 5. [Code](#code)
 6. [Videos](#videos)
@@ -23,12 +23,14 @@ Contributions are most welcome.
 
 ## Courses
 
+
+
 ## Books
 
 
-## Programming
+## Tutorials
 
-
+Pixel-level land cover classification, [[link](https://github.com/Azure/pixel_level_land_classification)]
 
 ## Training Data for Earth Science Research
 
@@ -37,6 +39,8 @@ Kaggle Earth Science Training Dataset, [[link](https://www.kaggle.com/search?q=t
 Radiant MLHub, [[link](https://www.mlhub.earth/#datasets)]
 
 Google Earth Engine Data Catalog, [[link](https://developers.google.com/earth-engine/datasets/catalog)]
+
+EuroSAT Dataset: Land Use and Land Cover Classification with Sentinel-2, [[link](https://github.com/phelber/EuroSAT)]
 
 ## Code
 
