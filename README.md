@@ -2,7 +2,7 @@
 
 A curated list of tutorials, notebooks, software, datasets, courses, books, video lectures and papers specifically for Artificial Intelligence (AI) use cases in Earth Science.
 
-Maintained by ESIP Machine Learning Cluster. Free and open to inspire AI for Good.
+Maintained by [ESIP Machine Learning Cluster](https://wiki.esipfed.org/Machine_Learning). Free and open to inspire AI for Good.
 
 Contributions are most welcome. 
 
@@ -28,6 +28,8 @@ A series of Jupyter notebooks that walk you through the fundamentals of Machine 
 Artificial Intelligence for Earth System Science (AI4ESS) Summer School, [[website](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school)][[repo](https://github.com/NCAR/ai4ess-hackathon-2020)][[readinglist](https://www2.cisl.ucar.edu/sites/default/files/AI4ESS%20Webpage%20PDF%20Recommended%20Readings.pdf)]
 
 ## Books
+
+How to achieve AI maturity and why it matters? [[pdf](https://www.amdocs.com/sites/default/files/filefield_paths/ai-maturity-model-whitepaper.pdf)]
 
 
 
@@ -85,6 +87,8 @@ Kaggle Earth Science Training Dataset, [[link](https://www.kaggle.com/search?q=t
 Radiant MLHub, [[link](https://www.mlhub.earth/#datasets)]
 
 Google Earth Engine Data Catalog, [[link](https://developers.google.com/earth-engine/datasets/catalog)]
+
+University of California Irvine Machine Learning Repository, [[website](https://archive.ics.uci.edu/ml/index.php)]
 
 EuroSAT Dataset: Land Use and Land Cover Classification with Sentinel-2, [[repo](https://github.com/phelber/EuroSAT)]
 
