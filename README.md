@@ -55,6 +55,8 @@ MMLSpark is an ecosystem of tools aimed towards expanding the distributed comput
 
 TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Apache Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation, and an API that enforces compile-time type-safety, modularity, and reuse. [[repo](https://github.com/salesforce/TransmogrifAI)]
 
+Microsoft AI for Earth API Platform is a distributed infrastructure designed to provide a secure, scalable, and customizable API hosting, designed to handle the needs of long-running/asynchronous machine learning model inference. It is based on Azure and Kubernetes. [[repo](https://github.com/microsoft/AIforEarth-API-Platform)]
+
 OneFlow is a performance-centered and open-source deep learning framework. [[repo](https://github.com/Oneflow-Inc/oneflow)]
 
 ml.js - Machine learning tools in JavaScript. [[repo](https://github.com/mljs/ml)]
@@ -63,9 +65,14 @@ BentoML is an open-source framework for high-performance ML model serving. [[rep
 
 flashflight: A C++ standalone library for machine learning. [[repo](https://github.com/facebookresearch/flashlight)]
 
+
 ## Tutorials
 
 Pixel-level land cover classification, [[repo](https://github.com/Azure/pixel_level_land_classification)]
+
+EO-learn-workshop: Bridging Earth Observation data and Machine Learning in Python, [[repo](https://github.com/sentinel-hub/eo-learn-workshop)]
+
+
 
 ## Training Data
 
