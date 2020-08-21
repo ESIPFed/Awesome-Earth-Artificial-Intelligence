@@ -10,23 +10,50 @@ Contributions are most welcome.
 
 1. [Courses](#courses)
 2. [Books](#books)
+3. [Tools](#tools)
 3. [Tutorials](#tutorials)
 4. [Training Datasets](#traningdata)
 5. [Code](#code)
 6. [Videos](#videos)
-7. [Learning](#learning)
-8. [Journals](#journals)
-9. [Competitions](#competitions)
-10. [Newsletters](#newsletters)
-11. [Communities](#communities)
-12. [Misc](#misc)
+7. [Journals](#journals)
+8. [Competitions](#competitions)
+9. [Newsletters](#newsletters)
+10. [Communities](#communities)
+11. [Misc](#misc)
 
 ## Courses
+
+A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. [[github repo](https://github.com/ageron/handson-ml)]
 
 
 
 ## Books
 
+
+
+## Tools
+
+A Visualization tool for neural network, deep learning and machine learning models, support ONNX (.onnx, .pb, .pbtxt), Keras (.h5, .keras), Core ML (.mlmodel), Caffe (.caffemodel, .prototxt), Caffe2 (predict_net.pb), Darknet (.cfg), MXNet (.model, -symbol.json), Barracuda (.nn), ncnn (.param), Tengine (.tmfile), TNN (.tnnproto), UFF (.uff) and TensorFlow Lite (.tflite). [[github repo](https://github.com/lutzroeder/netron)]
+
+Dopamine is a research framework for fast prototyping of reinforcement learning algorithms, [[github repo](https://github.com/google/dopamine)]
+
+MLflow: A Machine Learning Lifecycle Platform, [[github repo](https://github.com/mlflow/mlflow)]
+
+Snips NLU (Natural Language Understanding) is a Python library that allows to extract structured information from sentences written in natural language. [[github repo](https://github.com/snipsco/snips-nlu)]
+
+MindsDB is an Explainable AutoML framework for developers built on top of Pytorch. It enables you to build, train and test state of the art ML models in as simple as one line of code. [[github repo](https://github.com/mindsdb/mindsdb)]
+
+TensorFlow Hub is a repository of reusable assets for machine learning with TensorFlow. In particular, it provides pre-trained SavedModels that can be reused to solve new tasks with less training time and less training data. [[github repo](https://github.com/tensorflow/hub)]
+
+Polyaxon, a platform for building, training, and monitoring large scale deep learning applications. A Machine Learning Platform for Kubernetes. [[github repo](https://github.com/polyaxon/polyaxon)]
+
+MMLSpark is an ecosystem of tools aimed towards expanding the distributed computing framework Apache Spark in several new directions. Microsoft Machine Learning for Apache Spark, [[github repo](https://github.com/Azure/mmlspark)]
+
+TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Apache Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation, and an API that enforces compile-time type-safety, modularity, and reuse. [[github repo](https://github.com/salesforce/TransmogrifAI)]
+
+OneFlow is a performance-centered and open-source deep learning framework. [[github repo](https://github.com/Oneflow-Inc/oneflow)]
+
+ml.js - Machine learning tools in JavaScript. [[github repo](https://github.com/mljs/ml)]
 
 ## Tutorials
 
@@ -52,12 +79,12 @@ Landsat Time Series Analysis for Multi-Temporal Land Cover Classification, [[cod
 
 Deep Learning on Google Earth Engine, [[github repo](https://github.com/ucalyptus/EarthEngine-Deep-Learning)]
 
+Continuous Change Detection and Classification (CCDC) of land cover using all available Landsat data, [[github repo](https://github.com/GERSL/CCDC)]
 
+Object-based land cover classification with Feature Extraction and Feature Selection for Google Earth Engine (GEE), [[github repo](https://github.com/GERSL/CCDC)]
 
 ## Videos
 
-
-## Learning
 
 
 ## Journals
