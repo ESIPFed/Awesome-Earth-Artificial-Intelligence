@@ -21,7 +21,7 @@ Contributions are most welcome.
 9. [Competitions](#competitions)
 10. [Newsletters](#newsletters)
 11. [Communities](#communities)
-12. [Misc](#misc)
+12. [Related Awesome](#RelatedAwesome)
 
 ## Courses
 
@@ -56,7 +56,12 @@ Contributions are most welcome.
 ## Communities
 
 
-## Misc
+
+## RelatedAwesome
+- [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](media/icon/awesome.png) Awesome list for geospatial, not specific to geoscience but significant overlap
+- [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – ![Awesome](media/icon/awesome.png) Awesome list for atmospheric, ocean, climate, and hydrologic science
+- [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – ![Awesome](media/icon/awesome.png) Awesome list for coastal engineers and scientists
+- [Awesome Earth Artificial Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) – ![Awesome](media/icon/awesome.png) Awesome list for artificial intelligence use cases in Earth Science maintinaed by ESIP (<a href="https://wiki.esipfed.org/Main_Page">Earth Science Information Partners</a>, which is a earth science informatics community) Machine Learning Cluster.
 
 
   
