@@ -10,8 +10,10 @@ Contributions are most welcome.
 
 ## Contents
 
-| [Courses](#courses) | [Books](#books) | [Tools](#tools) | [Tutorials](#tutorials) | [Training Datasets](#traningdata) |
+
+| | | | | |
 | - | - | - | - | - |
+| [Courses](#courses) | [Books](#books) | [Tools](#tools) | [Tutorials](#tutorials) | [Training Datasets](#traningdata) |
 | [Code](#code) | [Videos](#videos) | [Journals](#journals) | [Competitions](#competitions) | [Newsletters](#newsletters) |
 | [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
 
