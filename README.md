@@ -14,8 +14,8 @@ Contributions are most welcome.
 | | | | | |
 | - | - | - | - | - |
 | [Courses](#courses) | [Books](#books) | [Tools](#tools) | [Tutorials](#tutorials) | [Training Datasets](#traningdata) |
-| [Code](#code) | [Videos](#videos) | [Journals](#journals) | [Competitions](#competitions) | [Newsletters](#newsletters) |
-| [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
+| [Code](#code) | [Videos](#videos) | [Journals](#journals) | [Reports](#reports) | [Competitions](#competitions) | 
+| [Newsletters](#newsletters) | [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
 
 ## Facets
 
@@ -118,6 +118,11 @@ Earth Lens, a Microsoft Garage project is an iOS iPad application that helps peo
 
 
 ## Journals
+
+
+## Reports
+
+Workshop Report: Advancing Application of Machine Learning Tools for NASA’s Earth Observation Data, [PDF](https://cdn.earthdata.nasa.gov/conduit/upload/14287/NASA_ML_Workshop_Report.pdf) 
 
 
 ## Competitions
