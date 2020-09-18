@@ -80,7 +80,7 @@ Machine Learning for Development: A method to Learn and Identify Earth Features 
 
 Intro to Machine Learning and Deep Learning for Earth-Life Sciences, [[repo](https://github.com/Machine-Learning-Tokyo/ELSI-DL-Bootcamp)]
 
-Introduction to Machine Learning on Landslide Data and Scikit-learn from UW WaterhackerWeek, [[repo](https://github.com/waterhackweek/whw2020_machine_learning)]
+Introduction to Machine Learning on Landslide Data and Scikit-learn from [UW WaterhackerWeek](https://waterhackweek.github.io/), [[repo](https://github.com/waterhackweek/whw2020_machine_learning)]
 
 ## Training Data
 
