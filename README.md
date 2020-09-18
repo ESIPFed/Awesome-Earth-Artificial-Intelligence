@@ -17,6 +17,15 @@ Contributions are most welcome.
 | [Code](#code) | [Videos](#videos) | [Journals](#journals) | [Competitions](#competitions) | [Newsletters](#newsletters) |
 | [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
 
+## Facets
+
+| Earth Sphere | Scientific Problems |
+| - | - |
+| Geosphere | |
+| Atmosphere | |
+| Hydrosphere | |
+
+
 ## Courses
 
 A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. [[repo](https://github.com/ageron/handson-ml)]
@@ -62,7 +71,6 @@ ml.js - Machine learning tools in JavaScript. [[repo](https://github.com/mljs/ml
 BentoML is an open-source framework for high-performance ML model serving. [[repo](https://github.com/bentoml/BentoML)]
 
 flashflight: A C++ standalone library for machine learning. [[repo](https://github.com/facebookresearch/flashlight)]
-
 
 ## Tutorials
 
