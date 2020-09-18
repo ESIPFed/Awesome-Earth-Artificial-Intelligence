@@ -10,18 +10,9 @@ Contributions are most welcome.
 
 ## Contents
 
-1. [Courses](#courses)
-2. [Books](#books)
-3. [Tools](#tools)
-3. [Tutorials](#tutorials)
-4. [Training Datasets](#traningdata)
-5. [Code](#code)
-6. [Videos](#videos)
-7. [Journals](#journals)
-8. [Competitions](#competitions)
-9. [Newsletters](#newsletters)
-10. [Communities](#communities)
-11. [RelatedAwesome](#RelatedAwesome)
+| [Courses](#courses) | [Books](#books) | [Tools](#tools) | [Tutorials](#tutorials) | [Training Datasets](#traningdata) |
+| [Code](#code) | [Videos](#videos) | [Journals](#journals) | [Competitions](#competitions) | [Newsletters](#newsletters) |
+| [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
 
 ## Courses
 
@@ -126,13 +117,12 @@ HackerEarth, [[link](https://www.hackerearth.com/challenges/)]
 ## Newsletters
 
 
+
 ## Communities
 
 ESIP Machine Learning Cluster [[wiki](https://wiki.esipfed.org/Machine_Learning)]
 
 ESIP Agriculture and Climate Cluster [[wiki](https://wiki.esipfed.org/Agriculture_and_Climate)]
-
-
 
 ## RelatedAwesome
 - [Awesome-Open-Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – ![Awesome](media/icon/awesome.png) A list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories.
