@@ -32,10 +32,6 @@ A series of Jupyter notebooks that walk you through the fundamentals of Machine 
 
 Artificial Intelligence for Earth System Science (AI4ESS) Summer School, [[website](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school)][[repo](https://github.com/NCAR/ai4ess-hackathon-2020)][[readinglist](https://www2.cisl.ucar.edu/sites/default/files/AI4ESS%20Webpage%20PDF%20Recommended%20Readings.pdf)]
 
-University of Washington WaterHackWeek, [[website](https://waterhackweek.github.io/)]
-
-
-
 ## Books
 
 How to achieve AI maturity and why it matters? [[pdf](https://www.amdocs.com/sites/default/files/filefield_paths/ai-maturity-model-whitepaper.pdf)]
@@ -115,7 +111,6 @@ Continuous Change Detection and Classification (CCDC) of land cover using all av
 Object-based land cover classification with Feature Extraction and Feature Selection for Google Earth Engine (GEE), [[repo](https://github.com/GERSL/CCDC)]
 
 Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning. [[repo](https://github.com/microsoft/Earth-Lens)]
-
 
 
 ## Videos
