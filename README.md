@@ -21,7 +21,7 @@ Contributions are most welcome.
 
 | Earth Sphere | Scientific Problems |
 | - | - |
-| Geosphere | |
+| Geosphere |  |
 | Atmosphere | |
 | Hydrosphere | |
 
@@ -32,11 +32,13 @@ A series of Jupyter notebooks that walk you through the fundamentals of Machine 
 
 Artificial Intelligence for Earth System Science (AI4ESS) Summer School, [[website](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school)][[repo](https://github.com/NCAR/ai4ess-hackathon-2020)][[readinglist](https://www2.cisl.ucar.edu/sites/default/files/AI4ESS%20Webpage%20PDF%20Recommended%20Readings.pdf)]
 
+University of Washington WaterHackWeek, [[website](https://waterhackweek.github.io/)]
+
+
+
 ## Books
 
 How to achieve AI maturity and why it matters? [[pdf](https://www.amdocs.com/sites/default/files/filefield_paths/ai-maturity-model-whitepaper.pdf)]
-
-
 
 ## Tools
 
@@ -82,7 +84,7 @@ Machine Learning for Development: A method to Learn and Identify Earth Features 
 
 Intro to Machine Learning and Deep Learning for Earth-Life Sciences, [[repo](https://github.com/Machine-Learning-Tokyo/ELSI-DL-Bootcamp)]
 
-
+Introduction to Machine Learning on Landslide Data and Scikit-learn from UW WaterhackerWeek, [[repo](https://github.com/waterhackweek/whw2020_machine_learning)]
 
 ## Training Data
 
@@ -95,6 +97,8 @@ Google Earth Engine Data Catalog, [[link](https://developers.google.com/earth-en
 University of California Irvine Machine Learning Repository, [[website](https://archive.ics.uci.edu/ml/index.php)]
 
 EuroSAT Dataset: Land Use and Land Cover Classification with Sentinel-2, [[repo](https://github.com/phelber/EuroSAT)]
+
+Awesome Satellite Imagery Datasets: A curated list of deep learning training datasets, [[repo](https://github.com/chrieke/awesome-satellite-imagery-datasets)]
 
 ## Code
 
@@ -140,6 +144,7 @@ ESIP Agriculture and Climate Cluster [[wiki](https://wiki.esipfed.org/Agricultur
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](media/icon/awesome.png) Awesome list for geospatial, not specific to geoscience but significant overlap
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – ![Awesome](media/icon/awesome.png) Awesome list for atmospheric, ocean, climate, and hydrologic science
 - [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – ![Awesome](media/icon/awesome.png) Awesome list for coastal engineers and scientists
+- [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - ![Awesome](media/icon/awesome.png) List of aerial and satellite imagery datasets with annotations for computer vision and deep learning
 
 
 
