@@ -34,7 +34,7 @@ Artificial Intelligence for Earth System Science (AI4ESS) Summer School, [[websi
 
 American Meterological Survey AI Webinar Series, [[website](https://www.ametsoc.org/index.cfm/ams/webinar-directory/)]
 
-
+USGS Artificial Intelligence/Machine Learning Workshop, [[website](https://my.usgs.gov/confluence/pages/viewpage.action?pageId=613780355)]
 
 ## Books
 
