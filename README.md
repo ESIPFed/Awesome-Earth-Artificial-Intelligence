@@ -14,8 +14,8 @@ Contributions are most welcome.
 | | | | | |
 | - | - | - | - | - |
 | [Courses](#courses) | [Books](#books) | [Tools](#tools) | [Tutorials](#tutorials) | [Training Datasets](#traningdata) |
-| [Code](#code) | [Videos](#videos) | [Journals](#journals) | [Reports](#reports) | [Competitions](#competitions) | 
-| [Newsletters](#newsletters) | [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
+| [Code](#code) | [Videos](#videos) | [Journals](#journals) | [Reports](#reports) |  [RelatedAwesome](#RelatedAwesome) |
+| [Competitions](#competitions) | [Newsletters](#newsletters) | [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
 
 ## Facets
 
@@ -32,9 +32,15 @@ A series of Jupyter notebooks that walk you through the fundamentals of Machine 
 
 Artificial Intelligence for Earth System Science (AI4ESS) Summer School, [[website](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school)][[repo](https://github.com/NCAR/ai4ess-hackathon-2020)][[readinglist](https://www2.cisl.ucar.edu/sites/default/files/AI4ESS%20Webpage%20PDF%20Recommended%20Readings.pdf)]
 
+American Meterological Survey AI Webinar Series, [[website](https://www.ametsoc.org/index.cfm/ams/webinar-directory/)]
+
+
+
 ## Books
 
 How to achieve AI maturity and why it matters? [[pdf](https://www.amdocs.com/sites/default/files/filefield_paths/ai-maturity-model-whitepaper.pdf)]
+
+70-Years-of-Machine-Learning-in-Geoscience-in-Review [[repo](https://github.com/JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review)]
 
 ## Tools
 
@@ -123,6 +129,10 @@ Earth Lens, a Microsoft Garage project is an iOS iPad application that helps peo
 ## Reports
 
 Workshop Report: Advancing Application of Machine Learning Tools for NASA’s Earth Observation Data, [PDF](https://cdn.earthdata.nasa.gov/conduit/upload/14287/NASA_ML_Workshop_Report.pdf) 
+
+## Thoughts
+
+'Farewell Convolutions' – ML Community Applauds Anonymous ICLR 2021 Paper That Uses Transformers for Image Recognition at Scale, [[news](https://syncedreview.com/2020/10/08/farewell-convolutions-ml-community-applauds-anonymous-iclr-2021-paper-that-uses-transformers-for-image-recognition-at-scale/)]
 
 
 ## Competitions
