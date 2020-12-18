@@ -88,6 +88,8 @@ Intro to Machine Learning and Deep Learning for Earth-Life Sciences, [[repo](htt
 
 Introduction to Machine Learning on Landslide Data and Scikit-learn from [UW WaterhackerWeek](https://waterhackweek.github.io/), [[repo](https://github.com/waterhackweek/whw2020_machine_learning)]
 
+Introduction to using Planet imagery to map snow cover, [[repo](https://github.com/acannistra/planet-snowcover)]
+
 ## Training Data
 
 Kaggle Earth Science Training Dataset, [[link](https://www.kaggle.com/search?q=tag%3A%22earth+science%22+in%3Adatasets)]
