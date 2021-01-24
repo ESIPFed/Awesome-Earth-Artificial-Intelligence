@@ -106,19 +106,19 @@ Contributions are most welcome.
 
 ## Code
 
-* Deep Learning for Land-cover Classification in Hyperspectral Images, [[old code](https://github.com/KGPML/Hyperspectral)], [[BassNet](https://github.com/hbutsuak95/BASS-Net)],[[paper-preprint](https://arxiv.org/abs/1612.00144)]
+* [BassNet](https://github.com/hbutsuak95/BASS-Net),[paper-preprint](https://arxiv.org/abs/1612.00144) - Deep Learning for Land-cover Classification in Hyperspectral Images, 
 
-* Multitemporal Land Cover Classification Network (ConvLSTM, ConvGRU), [[code](https://github.com/TUM-LMF/MTLCC)]
+* [MTLCC](https://github.com/TUM-LMF/MTLCC) - Multitemporal Land Cover Classification Network (ConvLSTM, ConvGRU), 
 
-* Landsat Time Series Analysis for Multi-Temporal Land Cover Classification, [[code](https://github.com/agr-ayush/Landsat-Time-Series-Analysis-for-Multi-Temporal-Land-Cover-Classification)] 
+* [Landsat Time Series Analysis for Multi-Temporal Land Cover Classification](https://github.com/agr-ayush/Landsat-Time-Series-Analysis-for-Multi-Temporal-Land-Cover-Classification)
 
-* Deep Learning on Google Earth Engine, [[repo](https://github.com/ucalyptus/EarthEngine-Deep-Learning)]
+* [EarthEngine-Deep-Learning](https://github.com/ucalyptus/EarthEngine-Deep-Learning) - Deep Learning on Google Earth Engine, 
 
-* Continuous Change Detection and Classification (CCDC) of land cover using all available Landsat data, [[repo](https://github.com/GERSL/CCDC)]
+* [Continuous Change Detection and Classification](https://github.com/GERSL/CCDC) - Continuous Change Detection and Classification (CCDC) of land cover using all available Landsat data, 
 
-* Object-based land cover classification with Feature Extraction and Feature Selection for Google Earth Engine (GEE), [[repo](https://github.com/GERSL/CCDC)]
+* [[Object-based Classification on Earth Engine](https://github.com/GERSL/CCDC)] - Object-based land cover classification with Feature Extraction and Feature Selection for Google Earth Engine (GEE), 
 
-* Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning. [[repo](https://github.com/microsoft/Earth-Lens)]
+* [[Earth Lens](https://github.com/microsoft/Earth-Lens)] - Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning. 
 
 
 ## Videos
@@ -130,16 +130,16 @@ Contributions are most welcome.
 
 ## Reports
 
-* Workshop Report: Advancing Application of Machine Learning Tools for NASA’s Earth Observation Data, [PDF](https://cdn.earthdata.nasa.gov/conduit/upload/14287/NASA_ML_Workshop_Report.pdf) 
+* [Workshop Report: Advancing Application of Machine Learning Tools for NASA’s Earth Observation Data](https://cdn.earthdata.nasa.gov/conduit/upload/14287/NASA_ML_Workshop_Report.pdf) 
 
 ## Thoughts
 
-* 'Farewell Convolutions' – ML Community Applauds Anonymous ICLR 2021 Paper That Uses Transformers for Image Recognition at Scale, [[news](https://syncedreview.com/2020/10/08/farewell-convolutions-ml-community-applauds-anonymous-iclr-2021-paper-that-uses-transformers-for-image-recognition-at-scale/)]
+* [['Farewell Convolutions' – ML Community Applauds Anonymous ICLR 2021 Paper That Uses Transformers for Image Recognition at Scale](https://syncedreview.com/2020/10/08/farewell-convolutions-ml-community-applauds-anonymous-iclr-2021-paper-that-uses-transformers-for-image-recognition-at-scale/)]
 
 
 ## Competitions
 
-* HackerEarth, [[link](https://www.hackerearth.com/challenges/)]
+* [[HackerEarth](https://www.hackerearth.com/challenges/)]
 
 ## Newsletters
 
@@ -147,9 +147,9 @@ Contributions are most welcome.
 
 ## Communities
 
-* ESIP Machine Learning Cluster [[wiki](https://wiki.esipfed.org/Machine_Learning)]
+* [ESIP Machine Learning Cluster](https://wiki.esipfed.org/Machine_Learning)
 
-* ESIP Agriculture and Climate Cluster [[wiki](https://wiki.esipfed.org/Agriculture_and_Climate)]
+* [ESIP Agriculture and Climate Cluster](https://wiki.esipfed.org/Agriculture_and_Climate)
 
 ## RelatedAwesome
 - [Awesome-Open-Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – ![Awesome](media/icon/awesome.png) A list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories.
