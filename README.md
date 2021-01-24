@@ -21,17 +21,7 @@ Contributions are most welcome.
 
 | Earth Sphere | Scientific Problems |
 | - | - |
-| Geosphere | 
-
-* How to identify hidden signals of earthquakes? 
-
-* How to learn the spatio-temporal relationships amonog earthquakes and make predictions based on the relationship?
-
-* How to capture complex relationships of volcano-seismic data and classify explosion quakes in volcanos?
-
-* How to predict landslides? How to estimate the damage?
-
-|
+| Geosphere | * How to identify hidden signals of earthquakes? * How to learn the spatio-temporal relationships amonog earthquakes and make predictions based on the relationship? * How to capture complex relationships of volcano-seismic data and classify explosion quakes in volcanos? * How to predict landslides? How to estimate the damage? |
 
 | Atmosphere | 
 
