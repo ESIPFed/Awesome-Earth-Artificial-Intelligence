@@ -28,81 +28,81 @@ Contributions are most welcome.
 
 ## Courses
 
-* [[Fundamentals of ML and DL in Python](https://github.com/ageron/handson-ml)] - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. 
+* [Fundamentals of ML and DL in Python](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. 
 
-* [[Artificial Intelligence for Earth System Science (AI4ESS) Summer School](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school)][[repo](https://github.com/NCAR/ai4ess-hackathon-2020)][[readinglist](https://www2.cisl.ucar.edu/sites/default/files/AI4ESS%20Webpage%20PDF%20Recommended%20Readings.pdf)]
+* [Artificial Intelligence for Earth System Science (AI4ESS) Summer School](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school) [repo](https://github.com/NCAR/ai4ess-hackathon-2020) [readinglist](https://www2.cisl.ucar.edu/sites/default/files/AI4ESS%20Webpage%20PDF%20Recommended%20Readings.pdf)
 
-* [[American Meterological Survey AI Webinar Series](https://www.ametsoc.org/index.cfm/ams/webinar-directory/)] , 
+* [American Meterological Survey AI Webinar Series](https://www.ametsoc.org/index.cfm/ams/webinar-directory/)
 
-* [[USGS Artificial Intelligence/Machine Learning Workshop](https://my.usgs.gov/confluence/pages/viewpage.action?pageId=613780355)]
+* [USGS Artificial Intelligence/Machine Learning Workshop](https://my.usgs.gov/confluence/pages/viewpage.action?pageId=613780355)
 
 ## Books
 
-* [[How to achieve AI maturity and why it matters? (PDF)](https://www.amdocs.com/sites/default/files/filefield_paths/ai-maturity-model-whitepaper.pdf)]
+* [How to achieve AI maturity and why it matters? (PDF)](https://www.amdocs.com/sites/default/files/filefield_paths/ai-maturity-model-whitepaper.pdf)
 
-* [[70-Years-of-Machine-Learning-in-Geoscience-in-Review](https://github.com/JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review)]
+* [70-Years-of-Machine-Learning-in-Geoscience-in-Review](https://github.com/JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review)
 
 ## Tools
 
-* [[eo-learn](https://github.com/sentinel-hub/eo-learn)]: Earth observation processing framework for machine learning in Python, 
+* [eo-learn](https://github.com/sentinel-hub/eo-learn): Earth observation processing framework for machine learning in Python,
 
-* [[EarthML](https://github.com/pyviz-topics/EarthML)][[website](http://earthml.holoviz.org/)]:  Tools for working with machine learning in earth science, 
+* [EarthML](https://github.com/pyviz-topics/EarthML) [website](http://earthml.holoviz.org/):  Tools for working with machine learning in earth science, 
 
-* [[ML visualization tool](https://github.com/lutzroeder/netron)] - A Visualization tool for neural network, deep learning and machine learning models, support ONNX (.onnx, .pb, .pbtxt), Keras (.h5, .keras), Core ML (.mlmodel), Caffe (.caffemodel, .prototxt), Caffe2 (predict_net.pb), Darknet (.cfg), MXNet (.model, -symbol.json), Barracuda (.nn), ncnn (.param), Tengine (.tmfile), TNN (.tnnproto), UFF (.uff) and TensorFlow Lite (.tflite). 
+* [ML visualization tool](https://github.com/lutzroeder/netron) - A Visualization tool for neural network, deep learning and machine learning models, support ONNX (.onnx, .pb, .pbtxt), Keras (.h5, .keras), Core ML (.mlmodel), Caffe (.caffemodel, .prototxt), Caffe2 (predict_net.pb), Darknet (.cfg), MXNet (.model, -symbol.json), Barracuda (.nn), ncnn (.param), Tengine (.tmfile), TNN (.tnnproto), UFF (.uff) and TensorFlow Lite (.tflite). 
 
-* [[Dopamine](https://github.com/google/dopamine)]  is a research framework for fast prototyping of reinforcement learning algorithms, 
+* [Dopamine](https://github.com/google/dopamine)  is a research framework for fast prototyping of reinforcement learning algorithms, 
 
-* [[mlflow](https://github.com/mlflow/mlflow)] - MLflow: A Machine Learning Lifecycle Platform, 
+* [mlflow](https://github.com/mlflow/mlflow) - MLflow: A Machine Learning Lifecycle Platform, 
 
-* [[Snips NLU](https://github.com/snipsco/snips-nlu)] Snips NLU (Natural Language Understanding) is a Python library that allows to extract structured information from sentences written in natural language. 
+* [Snips NLU](https://github.com/snipsco/snips-nlu) Snips NLU (Natural Language Understanding) is a Python library that allows to extract structured information from sentences written in natural language. 
 
-* [[MindsDB](https://github.com/mindsdb/mindsdb)] - MindsDB is an Explainable AutoML framework for developers built on top of Pytorch. It enables you to build, train and test state of the art ML models in as simple as one line of code. 
+* [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an Explainable AutoML framework for developers built on top of Pytorch. It enables you to build, train and test state of the art ML models in as simple as one line of code. 
 
-* [[TensorFlow Hub](https://github.com/tensorflow/hub)] TensorFlow Hub is a repository of reusable assets for machine learning with TensorFlow. In particular, it provides pre-trained SavedModels that can be reused to solve new tasks with less training time and less training data. 
+* [TensorFlow Hub](https://github.com/tensorflow/hub) TensorFlow Hub is a repository of reusable assets for machine learning with TensorFlow. In particular, it provides pre-trained SavedModels that can be reused to solve new tasks with less training time and less training data. 
 
-* [[Polyaxon](https://github.com/polyaxon/polyaxon)] - Polyaxon, a platform for building, training, and monitoring large scale deep learning applications. A Machine Learning Platform for Kubernetes. 
+* [Polyaxon](https://github.com/polyaxon/polyaxon) - Polyaxon, a platform for building, training, and monitoring large scale deep learning applications. A Machine Learning Platform for Kubernetes. 
 
-* [[MMLSpark](https://github.com/Azure/mmlspark)] - MMLSpark is an ecosystem of tools aimed towards expanding the distributed computing framework Apache Spark in several new directions. Microsoft Machine Learning for Apache Spark, 
+* [MMLSpark](https://github.com/Azure/mmlspark) - MMLSpark is an ecosystem of tools aimed towards expanding the distributed computing framework Apache Spark in several new directions. Microsoft Machine Learning for Apache Spark, 
 
-* [[TransmogrifAI](https://github.com/salesforce/TransmogrifAI)] - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Apache Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation, and an API that enforces compile-time type-safety, modularity, and reuse. 
+* [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Apache Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation, and an API that enforces compile-time type-safety, modularity, and reuse. 
 
-* [[Microsoft AI for Earth API Platform](https://github.com/microsoft/AIforEarth-API-Platform)] - Microsoft AI for Earth API Platform is a distributed infrastructure designed to provide a secure, scalable, and customizable API hosting, designed to handle the needs of long-running/asynchronous machine learning model inference. It is based on Azure and Kubernetes. 
+* [Microsoft AI for Earth API Platform](https://github.com/microsoft/AIforEarth-API-Platform) - Microsoft AI for Earth API Platform is a distributed infrastructure designed to provide a secure, scalable, and customizable API hosting, designed to handle the needs of long-running/asynchronous machine learning model inference. It is based on Azure and Kubernetes. 
 
-* [[OneFlow](https://github.com/Oneflow-Inc/oneflow)] - OneFlow is a performance-centered and open-source deep learning framework. 
+* [OneFlow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework. 
 
-* [[ml.js](https://github.com/mljs/ml)] - ml.js - Machine learning tools in JavaScript. 
+* [ml.js](https://github.com/mljs/ml) - ml.js - Machine learning tools in JavaScript. 
 
-* [[BentoML](https://github.com/bentoml/BentoML)] - BentoML is an open-source framework for high-performance ML model serving. 
+* [BentoML](https://github.com/bentoml/BentoML) - BentoML is an open-source framework for high-performance ML model serving. 
 
-* [[flashflight:](https://github.com/facebookresearch/flashlight)] - flashflight: A C++ standalone library for machine learning. 
+* [flashflight:](https://github.com/facebookresearch/flashlight) - flashflight: A C++ standalone library for machine learning. 
 
 ## Tutorials
 
-* [[Pixel-level land cover classification](https://github.com/Azure/pixel_level_land_classification)]
+* [Pixel-level land cover classification](https://github.com/Azure/pixel_level_land_classification)
 
-* [[EO-learn-workshop](https://github.com/sentinel-hub/eo-learn-workshop)] - EO-learn-workshop: Bridging Earth Observation data and Machine Learning in Python, 
+* [EO-learn-workshop](https://github.com/sentinel-hub/eo-learn-workshop) - EO-learn-workshop: Bridging Earth Observation data and Machine Learning in Python, 
 
-* [[Machine Learning for Development](https://github.com/worldbank/ml4dev)] Machine Learning for Development: A method to Learn and Identify Earth Features from Satellite Images, 
+* [Machine Learning for Development](https://github.com/worldbank/ml4dev) Machine Learning for Development: A method to Learn and Identify Earth Features from Satellite Images, 
 
-* [[ELSI-DL-Bootcamp](https://github.com/Machine-Learning-Tokyo/ELSI-DL-Bootcamp)] - Intro to Machine Learning and Deep Learning for Earth-Life Sciences, 
+* [ELSI-DL-Bootcamp](https://github.com/Machine-Learning-Tokyo/ELSI-DL-Bootcamp) - Intro to Machine Learning and Deep Learning for Earth-Life Sciences, 
 
-* [[UW WaterhackerWeek](https://github.com/waterhackweek/whw2020_machine_learning)] - Introduction to Machine Learning on Landslide Data and Scikit-learn from [UW WaterhackerWeek](https://waterhackweek.github.io/), 
+* [UW WaterhackerWeek](https://github.com/waterhackweek/whw2020_machine_learning) - Introduction to Machine Learning on Landslide Data and Scikit-learn from [UW WaterhackerWeek](https://waterhackweek.github.io/), 
 
-* [[Planet Snow Mapping](https://github.com/acannistra/planet-snowcover)] - Introduction to using Planet imagery to map snow cover, 
+* [Planet Snow Mapping](https://github.com/acannistra/planet-snowcover) - Introduction to using Planet imagery to map snow cover, 
 
 ## Training Data
 
-* [[Kaggle Earth Science Training Dataset](https://www.kaggle.com/search?q=tag%3A%22earth+science%22+in%3Adatasets)]
+* [Kaggle Earth Science Training Dataset](https://www.kaggle.com/search?q=tag%3A%22earth+science%22+in%3Adatasets)
 
-* [[Radiant MLHub](https://www.mlhub.earth/#datasets)]
+* [Radiant MLHub](https://www.mlhub.earth/#datasets)
 
-* [[Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog)]
+* [Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog)
 
-* [[University of California Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)]
+* [University of California Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 
-* [[EuroSAT Dataset](https://github.com/phelber/EuroSAT)] - EuroSAT Dataset: Land Use and Land Cover Classification with Sentinel-2, 
+* [EuroSAT Dataset](https://github.com/phelber/EuroSAT) - EuroSAT Dataset: Land Use and Land Cover Classification with Sentinel-2, 
 
-* [[Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)] - Awesome Satellite Imagery Datasets: A curated list of deep learning training datasets, 
+* [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - Awesome Satellite Imagery Datasets: A curated list of deep learning training datasets, 
 
 ## Code
 
