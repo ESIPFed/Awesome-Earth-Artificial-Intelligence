@@ -6,10 +6,9 @@ A curated list of tutorials, notebooks, software, datasets, courses, books, vide
 
 Maintained by ESIP Machine Learning Cluster. Free and open to inspire AI for Good.
 
-Contributions are most welcome. 
+Contributions are most welcome. Please refer to our [contributing guidelines](contributing.md), [what is awesome?](awesome.md), and [Code of Conduct](code-of-conduct.md).
 
 ## Contents
-
 
 | | | | | |
 | - | - | - | - | - |
@@ -17,7 +16,9 @@ Contributions are most welcome.
 | [Code](#code) | [Videos](#videos) | [Journals](#journals) | [Reports](#reports) |  [RelatedAwesome](#RelatedAwesome) |
 | [Competitions](#competitions) | [Newsletters](#newsletters) | [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
 
-## Facets
+
+
+## ML-enthusiastic Earth Scientific Questions
 
 | Earth Spheres | Scientific Problems |
 | - | - |
