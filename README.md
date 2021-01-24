@@ -58,6 +58,15 @@ Contributions are most welcome.
 
 |
 
+| Biosphere | 
+
+* How to do high spatio-temporal resoluton forest mapping?
+
+* How to do high spatio-temporal resoluton crop mapping?
+
+* How to do high spatio-temporal resoluton animal mapping?
+
+|
 
 ## Courses
 
