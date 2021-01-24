@@ -21,9 +21,42 @@ Contributions are most welcome.
 
 | Earth Sphere | Scientific Problems |
 | - | - |
-| Geosphere |  |
-| Atmosphere | |
-| Hydrosphere | |
+| Geosphere | 
+
+* How to identify hidden signals of earthquakes? 
+
+* How to learn the spatio-temporal relationships amonog earthquakes and make predictions based on the relationship?
+
+* How to capture complex relationships of volcano-seismic data and classify explosion quakes in volcanos?
+
+* How to predict landslides? How to estimate the damage?
+
+|
+
+| Atmosphere | 
+
+* How to trace and predict climate change using machine learning?
+
+* How to predict hurricane?
+
+* How to monitor and predict meteorological drought?
+
+* How to detect wildfire early?
+
+* How to monitor and predict air quality?
+
+* How to predict dust storm?
+
+|
+| Hydrosphere | 
+
+* How to do high spatio-temporal resoluton waterbody mapping?
+
+* How to get insights of water quality from remote sensing?
+
+* How to monitor, predict, and adapt to snow/glacier melting?
+
+|
 
 
 ## Courses
