@@ -19,25 +19,21 @@ Contributions are most welcome.
 
 ## Facets
 
-| Earth Sphere | Scientific Problems |
+| Earth Spheres | Scientific Problems |
 | - | - |
 | Geosphere | <ul><li>How to identify hidden signals of earthquakes?</li> <li>How to learn the spatio-temporal relationships amonog earthquakes and make predictions based on the relationship?</li> <li>How to capture complex relationships of volcano-seismic data and classify explosion quakes in volcanos?</li> <li>How to predict landslides</li> <li>How to estimate the damage?</li> |
 
-| Atmosphere | 
+| Atmosphere | <ul><li>How to trace and predict climate change using machine learning?</li>
 
-* How to trace and predict climate change using machine learning?
+<li>How to predict hurricane?</li>
 
-* How to predict hurricane?
+<li>How to monitor and predict meteorological drought?</li>
 
-* How to monitor and predict meteorological drought?
+<li>How to detect wildfire early?</li>
 
-* How to detect wildfire early?
+<li>How to monitor and predict air quality?</li>
 
-* How to monitor and predict air quality?
-
-* How to predict dust storm?
-
-|
+<li>How to predict dust storm?</li></ul>|
 | Hydrosphere | 
 
 * How to do high spatio-temporal resoluton waterbody mapping?
