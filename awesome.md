@@ -56,7 +56,6 @@ Some licenses that are ***not*** open and **cannot be included**:
 * [No license](http://choosealicense.com/no-license/)
 * [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
 * [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-* [NASA Open Source Agreement](http://directory.fsf.org/wiki/License:NASA-OSA_v1.3)
 * [Microsoft's Shared Source CLI, C#, and Jscript License](http://directory.fsf.org/wiki/License:Ms-SS)
 * [Oculus Rift SDK License](http://directory.fsf.org/wiki/License:Oculus_VR_Rift_SDK_License)
 * More exhaustive lists: [Software](http://www.gnu.org/licenses/license-list.html#NonFreeSoftwareLicenses) and [Others](http://www.gnu.org/licenses/license-list.html#NonFreeDocumentationLicenses)
