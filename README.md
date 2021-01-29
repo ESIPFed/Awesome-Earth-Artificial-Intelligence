@@ -108,6 +108,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - Awesome Satellite Imagery Datasets: A curated list of deep learning training datasets, 
 
+* [STanford EArthquake Dataset (STEAD)](https://github.com/smousavi05/STEAD)
+
 ## Code
 
 * [BassNet](https://github.com/hbutsuak95/BASS-Net),[paper-preprint](https://arxiv.org/abs/1612.00144) - Deep Learning for Land-cover Classification in Hyperspectral Images, 
@@ -123,6 +125,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 * [[Object-based Classification on Earth Engine](https://github.com/GERSL/CCDC)] - Object-based land cover classification with Feature Extraction and Feature Selection for Google Earth Engine (GEE), 
 
 * [[Earth Lens](https://github.com/microsoft/Earth-Lens)] - Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning. 
+
+* [[EQTransformer](https://github.com/smousavi05/EQTransformer)] - An AI-Based Earthquake Signal Detector and Phase Picker. 
 
 
 ## Videos
