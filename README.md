@@ -1,6 +1,6 @@
 # Awesome-Earth-Artificial-Intelligence 
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  [![GitHub stars](https://img.shields.io/github/stars/ESIPFed/Awesome-Earth-Artificial-Intelligence)](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence/stargazers) [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://join.slack.com/share/zt-ht1ax4j4-LZD5cZYO8wDZUVTXhQHAUg) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FESIPFed%2FAwesome-Earth-Artificial-Intelligence)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FESIPFed%2FAwesome-Earth-Artificial-Intelligence)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  [![GitHub stars](https://img.shields.io/github/stars/ESIPFed/Awesome-Earth-Artificial-Intelligence)](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence/stargazers) [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://esip-slack-invite.herokuapp.com/) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FESIPFed%2FAwesome-Earth-Artificial-Intelligence)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FESIPFed%2FAwesome-Earth-Artificial-Intelligence)
 
 A curated list of tutorials, notebooks, software, datasets, courses, books, video lectures and papers specifically for Artificial Intelligence (AI) use cases in Earth Science.
 
@@ -119,9 +119,11 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Continuous Change Detection and Classification](https://github.com/GERSL/CCDC) - Continuous Change Detection and Classification (CCDC) of land cover using all available Landsat data, 
 
-* [[Object-based Classification on Earth Engine](https://github.com/GERSL/CCDC)] - Object-based land cover classification with Feature Extraction and Feature Selection for Google Earth Engine (GEE), 
+* [Object-based Classification on Earth Engine](https://github.com/GERSL/CCDC) - Object-based land cover classification with Feature Extraction and Feature Selection for Google Earth Engine (GEE), 
 
-* [[Earth Lens](https://github.com/microsoft/Earth-Lens)] - Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning. 
+* [Earth Lens](https://github.com/microsoft/Earth-Lens) - Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning. 
+
+* [Image Classification Neural Network Ranking with source code](https://paperswithcode.com/task/image-classification) - paperswithcode has put together a list of cutting-edge papers and ranked them with the claimed accuracy.
 
 
 ## Videos
