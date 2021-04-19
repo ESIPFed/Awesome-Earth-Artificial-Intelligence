@@ -24,8 +24,9 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 | - | - |
 | Geosphere | <ul><li>How to identify hidden signals of earthquakes?</li> <li>How to learn the spatio-temporal relationships amonog earthquakes and make predictions based on the relationship?</li> <li>How to capture complex relationships of volcano-seismic data and classify explosion quakes in volcanos?</li> <li>How to predict landslides</li> <li>How to estimate the damage?</li></ul> |
 | Atmosphere | <ul><li>How to trace and predict climate change using machine learning?</li><li>How to predict hurricane?</li><li>How to monitor and predict meteorological drought?</li><li>How to detect wildfire early?</li><li>How to monitor and predict air quality?</li><li>How to predict dust storm?</li></ul> |
-| Hydrosphere | <ul><li>How to do high spatio-temporal resoluton waterbody mapping?</li><li>How to get insights of water quality from remote sensing?</li><li>How to monitor, predict, and adapt to snow/glacier melting?</li></ul> |
+| Hydrosphere | <ul><li>How to do high spatio-temporal resoluton waterbody mapping?</li><li>How to get insights of water quality from remote sensing?</li><li>How to monitor, and predict snow melt as a water resource?</li></ul> |
 | Biosphere | <ul><li>How to do high spatio-temporal resoluton forest mapping?</li><li>How to do high spatio-temporal resoluton crop mapping?</li><li>How to do high spatio-temporal resoluton animal mapping?</li></ul> |
+| Cryosphere | <ul><li>How to do high spatio-temporal resoluton mapping and classification of sea ice?</li><li>How to monitor and predict glacier/ice sheet mass loss?</li></ul> |
 
 
 
@@ -109,6 +110,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - Awesome Satellite Imagery Datasets: A curated list of deep learning training datasets, 
 
+* [STanford EArthquake Dataset (STEAD)](https://github.com/smousavi05/STEAD)
+
 ## Code
 
 * [BassNet](https://github.com/hbutsuak95/BASS-Net),[paper-preprint](https://arxiv.org/abs/1612.00144) - Deep Learning for Land-cover Classification in Hyperspectral Images, 
@@ -126,6 +129,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 * [Earth Lens](https://github.com/microsoft/Earth-Lens) - Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning. 
 
 * [Image Classification Neural Network Ranking with source code](https://paperswithcode.com/task/image-classification) - paperswithcode has put together a list of cutting-edge papers and ranked them with the claimed accuracy.
+
+* [[EQTransformer](https://github.com/smousavi05/EQTransformer)] - An AI-Based Earthquake Signal Detector and Phase Picker. 
 
 
 ## Videos
