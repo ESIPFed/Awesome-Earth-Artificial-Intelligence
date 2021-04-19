@@ -33,6 +33,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Fundamentals of ML and DL in Python](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. 
 
+* [Trustworthy Artificial Intelligence for Environmental Science (TAI4ES) Summer School](https://www2.cisl.ucar.edu/tai4es) will be virtually the week of July 26-30, 2021.
+
 * [Artificial Intelligence for Earth System Science (AI4ESS) Summer School](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school) [repo](https://github.com/NCAR/ai4ess-hackathon-2020) [readinglist](https://www2.cisl.ucar.edu/sites/default/files/AI4ESS%20Webpage%20PDF%20Recommended%20Readings.pdf)
 
 * [American Meterological Survey AI Webinar Series](https://www.ametsoc.org/index.cfm/ams/webinar-directory/)
@@ -128,9 +130,10 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Videos
 
-
+* [Tutorial on Microsoft Azure Machine Learning Studio (AutoML-Regression)](https://www.youtube.com/watch?v=ip5GHTMZPhA), created by Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission from Space.
 
 ## Journals
+
 
 
 ## Reports
@@ -139,7 +142,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Thoughts
 
-* [['Farewell Convolutions' – ML Community Applauds Anonymous ICLR 2021 Paper That Uses Transformers for Image Recognition at Scale](https://syncedreview.com/2020/10/08/farewell-convolutions-ml-community-applauds-anonymous-iclr-2021-paper-that-uses-transformers-for-image-recognition-at-scale/)]
+* ['Farewell Convolutions' – ML Community Applauds Anonymous ICLR 2021 Paper That Uses Transformers for Image Recognition at Scale](https://syncedreview.com/2020/10/08/farewell-convolutions-ml-community-applauds-anonymous-iclr-2021-paper-that-uses-transformers-for-image-recognition-at-scale/)
+* [37 reasons why your neural network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 
 
 ## Competitions
