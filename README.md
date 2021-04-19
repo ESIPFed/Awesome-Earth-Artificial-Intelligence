@@ -130,7 +130,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Image Classification Neural Network Ranking with source code](https://paperswithcode.com/task/image-classification) - paperswithcode has put together a list of cutting-edge papers and ranked them with the claimed accuracy.
 
-* [[EQTransformer](https://github.com/smousavi05/EQTransformer)] - An AI-Based Earthquake Signal Detector and Phase Picker. 
+* [EQTransformer](https://github.com/smousavi05/EQTransformer) - An AI-Based Earthquake Signal Detector and Phase Picker. 
 
 
 ## Videos
