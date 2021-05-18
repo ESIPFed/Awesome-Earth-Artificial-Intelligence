@@ -173,6 +173,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – ![Awesome](media/icon/awesome.png) Awesome list for atmospheric, ocean, climate, and hydrologic science
 - [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – ![Awesome](media/icon/awesome.png) Awesome list for coastal engineers and scientists
 - [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - ![Awesome](media/icon/awesome.png) List of aerial and satellite imagery datasets with annotations for computer vision and deep learning
+- [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - ![Awesome](media/icon/awesome.png) A curated list of awesome open source workflow engines
+- [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - ![Awesome](media/icon/awesome.png) A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 
 
 
