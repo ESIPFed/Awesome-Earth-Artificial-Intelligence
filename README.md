@@ -94,13 +94,15 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [UW WaterhackerWeek](https://github.com/waterhackweek/whw2020_machine_learning) - Introduction to Machine Learning on Landslide Data and Scikit-learn from [UW WaterhackerWeek](https://waterhackweek.github.io/), 
 
-* [Planet Snow Mapping](https://github.com/acannistra/planet-snowcover) - Introduction to using Planet imagery to map snow cover, 
+* [Planet Snow Mapping](https://github.com/acannistra/planet-snowcover) - Introduction to using Planet imagery to map snow cover
+
+* [Machine Learning Pipeline for Climate Science](https://ml-clim.github.io/drought-prediction/) - an end-to-end pipeline for the creation, intercomparison and evaluation of machine learning methods in climate science
 
 ## Training Data
 
 * [Kaggle Earth Science Training Dataset](https://www.kaggle.com/search?q=tag%3A%22earth+science%22+in%3Adatasets)
 
-* [Radiant MLHub](https://www.mlhub.earth/#datasets)
+* [Radiant MLHub](https://www.mlhub.earth/#datasets) - an open library for geospatial training data
 
 * [Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog)
 
@@ -110,7 +112,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - Awesome Satellite Imagery Datasets: A curated list of deep learning training datasets, 
 
-* [STanford EArthquake Dataset (STEAD)](https://github.com/smousavi05/STEAD)
+* [STanford EArthquake Dataset (STEAD)](https://github.com/smousavi05/STEAD) - A Global Data Set of Seismic Signals for AI
 
 ## Code
 
@@ -130,7 +132,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Image Classification Neural Network Ranking with source code](https://paperswithcode.com/task/image-classification) - paperswithcode has put together a list of cutting-edge papers and ranked them with the claimed accuracy.
 
-* [[EQTransformer](https://github.com/smousavi05/EQTransformer)] - An AI-Based Earthquake Signal Detector and Phase Picker. 
+* [EQTransformer](https://github.com/smousavi05/EQTransformer) - An AI-Based Earthquake Signal Detector and Phase Picker. 
 
 
 ## Videos
@@ -139,7 +141,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Journals
 
-
+* [Google Earth Engine: Planetary-scale geospatial analysis for everyone](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
 
 ## Reports
 
@@ -148,8 +150,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 ## Thoughts
 
 * ['Farewell Convolutions' – ML Community Applauds Anonymous ICLR 2021 Paper That Uses Transformers for Image Recognition at Scale](https://syncedreview.com/2020/10/08/farewell-convolutions-ml-community-applauds-anonymous-iclr-2021-paper-that-uses-transformers-for-image-recognition-at-scale/)
-* [37 reasons why your neural network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 
+* [37 reasons why your neural network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 
 ## Competitions
 
@@ -171,6 +173,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – ![Awesome](media/icon/awesome.png) Awesome list for atmospheric, ocean, climate, and hydrologic science
 - [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – ![Awesome](media/icon/awesome.png) Awesome list for coastal engineers and scientists
 - [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - ![Awesome](media/icon/awesome.png) List of aerial and satellite imagery datasets with annotations for computer vision and deep learning
+- [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - ![Awesome](media/icon/awesome.png) A curated list of awesome open source workflow engines
+- [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - ![Awesome](media/icon/awesome.png) A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 
 
 
