@@ -96,7 +96,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Planet Snow Mapping](https://github.com/acannistra/planet-snowcover) - Introduction to using Planet imagery to map snow cover
 
-* [Drought Prediction](https://ml-clim.github.io/drought-prediction/)
+* [Machine Learning Pipeline for Climate Science](https://ml-clim.github.io/drought-prediction/) - an end-to-end pipeline for the creation, intercomparison and evaluation of machine learning methods in climate science
 
 ## Training Data
 
