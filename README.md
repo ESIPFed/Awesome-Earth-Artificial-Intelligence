@@ -32,9 +32,9 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Courses
 
-* [ML Seminar: Physics-informed Machine learning for weather and climate science](https://www.youtube.com/watch?v=B_4TONeY75U) by Dr. Karthik Kashinath from Lawrence Berkeley National Lab, Mar 19, 2021
+* [ML Seminar: Physics-informed Machine learning for weather and climate science](https://www.youtube.com/watch?v=B_4TONeY75U) (57:35) by Dr. Karthik Kashinath from Lawrence Berkeley National Lab, Mar 19, 2021
 
-* [ML Seminar: Scalable Geospatial Analysis](https://www.youtube.com/watch?v=84VNWk_zFTM) by Tom Augspurger from Microsoft AI for Earth, May 20, 2021 
+* [ML Seminar: Scalable Geospatial Analysis](https://www.youtube.com/watch?v=84VNWk_zFTM) (53:23) by Tom Augspurger from Microsoft AI for Earth, May 20, 2021 
 
 * [Fundamentals of ML and DL in Python](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. 
 
