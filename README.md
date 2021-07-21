@@ -23,7 +23,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 | Earth Spheres | Scientific Problems |
 | - | - |
 | Geosphere | <ul><li>How to identify hidden signals of earthquakes?</li> <li>How to learn the spatio-temporal relationships amonog earthquakes and make predictions based on the relationship?</li> <li>How to capture complex relationships of volcano-seismic data and classify explosion quakes in volcanos?</li> <li>How to predict landslides</li> <li>How to estimate the damage?</li></ul> |
-| Atmosphere | <ul><li>How to trace and predict climate change using machine learning?</li><li>How to predict hurricane?</li><li>How to monitor and predict meteorological drought?</li><li>How to detect wildfire early?</li><li>How to monitor and predict air quality?</li><li>How to predict dust storm?</li></ul> |
+| Atmosphere | <ul><li>How to trace and predict climate change using machine learning?</li><li>How to predict hurricane?</li><li>How to monitor and predict meteorological drought?</li><li>How to detect wildfire early?</li><li>How to monitor and predict air quality?</li><li>How to predict dust storm?</li><li>How to accelerate the model simulation and lower the computing costs?</li></ul> |
 | Hydrosphere | <ul><li>How to do high spatio-temporal resoluton waterbody mapping?</li><li>How to get insights of water quality from remote sensing?</li><li>How to monitor, and predict snow melt as a water resource?</li></ul> |
 | Biosphere | <ul><li>How to do high spatio-temporal resoluton forest mapping?</li><li>How to do high spatio-temporal resoluton crop mapping?</li><li>How to do high spatio-temporal resoluton animal mapping?</li></ul> |
 | Cryosphere | <ul><li>How to do high spatio-temporal resoluton mapping and classification of sea ice?</li><li>How to monitor and predict glacier/ice sheet mass loss?</li></ul> |
@@ -31,6 +31,10 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 
 ## Courses
+
+* [ML Seminar: Physics-informed Machine learning for weather and climate science](https://www.youtube.com/watch?v=B_4TONeY75U) by Dr. Karthik Kashinath from Lawrence Berkeley National Lab, Mar 19, 2021
+
+* [ML Seminar: Scalable Geospatial Analysis](https://www.youtube.com/watch?v=84VNWk_zFTM) by Tom Augspurger from Microsoft AI for Earth, May 20, 2021 
 
 * [Fundamentals of ML and DL in Python](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. 
 
@@ -141,6 +145,10 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Journals
 
+* [Ten Ways to Apply Machine Learning in Earth and Space Sciences](https://eos.org/opinions/ten-ways-to-apply-machine-learning-in-earth-and-space-sciences?mkt_tok=OTg3LUlHVC01NzIAAAF-KbKDtMdtC6CVBJS0uWL0Paw6uJRdMh8g8FbltivTqUKL3WvP3AdX9MVxc0ySwjknrG7FRo9eqdFeZLkklEjZQkqb-Z2WVUJIUziQdqc)
+
+* [Advancing AI for Earth Science: A Data Systems Perspective](https://eos.org/science-updates/advancing-ai-for-earth-science-a-data-systems-perspective)
+
 * [Google Earth Engine: Planetary-scale geospatial analysis for everyone](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
 
 ## Reports
@@ -148,6 +156,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 * [Workshop Report: Advancing Application of Machine Learning Tools for NASA’s Earth Observation Data](https://cdn.earthdata.nasa.gov/conduit/upload/14287/NASA_ML_Workshop_Report.pdf) 
 
 ## Thoughts
+
+* [Why 90% of machine learning models never hit the market](https://thenextweb.com/news/why-most-machine-learning-models-never-hit-market-syndication)
 
 * ['Farewell Convolutions' – ML Community Applauds Anonymous ICLR 2021 Paper That Uses Transformers for Image Recognition at Scale](https://syncedreview.com/2020/10/08/farewell-convolutions-ml-community-applauds-anonymous-iclr-2021-paper-that-uses-transformers-for-image-recognition-at-scale/)
 
