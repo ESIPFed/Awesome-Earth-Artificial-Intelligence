@@ -14,7 +14,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 | - | - | - | - | - |
 | [Courses](#courses) | [Books](#books) | [Tools](#tools) | [Tutorials](#tutorials) | [Training Datasets](#traningdata) |
 | [Code](#code) | [Videos](#videos) | [Journals](#journals) | [Reports](#reports) |  [RelatedAwesome](#RelatedAwesome) |
-| [Competitions](#competitions) | [Newsletters](#newsletters) | [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
+| [Competitions](#competitions) | [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
 
 
 
@@ -165,10 +165,9 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Competitions
 
+* [[NOAA GPU Hackthon](https://www.gpuhackathons.org/event/noaa-gpu-hackathon)]
+
 * [[HackerEarth](https://www.hackerearth.com/challenges/)]
-
-## Newsletters
-
 
 
 ## Communities
