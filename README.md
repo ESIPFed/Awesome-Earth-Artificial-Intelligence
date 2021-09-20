@@ -13,8 +13,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 | | | | | |
 | - | - | - | - | - |
 | [Courses](#courses) | [Books](#books) | [Tools](#tools) | [Tutorials](#tutorials) | [Training Datasets](#traningdata) |
-| [Code](#code) | [Videos](#videos) | [Journals](#journals) | [Reports](#reports) |  [RelatedAwesome](#RelatedAwesome) |
-| [Competitions](#competitions) | [Newsletters](#newsletters) | [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
+| [Code](#code) | [Videos](#videos) | [Papers](#papers) | [Reports](#reports) |  [Thoughts](#thoughts) |
+| [Competitions](#competitions) | [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
 
 
 
@@ -29,6 +29,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 | Cryosphere | <ul><li>How to do high spatio-temporal resoluton mapping and classification of sea ice?</li><li>How to monitor and predict glacier/ice sheet mass loss?</li></ul> |
 
 
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
 
 ## Courses
 
@@ -46,11 +48,17 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [USGS Artificial Intelligence/Machine Learning Workshop](https://my.usgs.gov/confluence/pages/viewpage.action?pageId=613780355)
 
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
+
 ## Books
 
 * [How to achieve AI maturity and why it matters? (PDF)](https://www.amdocs.com/sites/default/files/filefield_paths/ai-maturity-model-whitepaper.pdf)
 
 * [70-Years-of-Machine-Learning-in-Geoscience-in-Review](https://github.com/JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review)
+
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
 
 ## Tools
 
@@ -86,6 +94,11 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [flashflight:](https://github.com/facebookresearch/flashlight) - flashflight: A C++ standalone library for machine learning. 
 
+* [Xarray-Beam](https://github.com/google/xarray-beam) - Python library for building Apache Beam pipelines with Xarray datasets.
+
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
+
 ## Tutorials
 
 * [Pixel-level land cover classification](https://github.com/Azure/pixel_level_land_classification)
@@ -101,6 +114,9 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 * [Planet Snow Mapping](https://github.com/acannistra/planet-snowcover) - Introduction to using Planet imagery to map snow cover
 
 * [Machine Learning Pipeline for Climate Science](https://ml-clim.github.io/drought-prediction/) - an end-to-end pipeline for the creation, intercomparison and evaluation of machine learning methods in climate science
+
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
 
 ## Training Data
 
@@ -118,7 +134,14 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [STanford EArthquake Dataset (STEAD)](https://github.com/smousavi05/STEAD) - A Global Data Set of Seismic Signals for AI
 
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
+
 ## Code
+
+* :eyeglasses:[Earth System Emulator (ESEm)](https://github.com/duncanwp/ESEm) - A tool for emulating geophysical datasets including (but not limited to) Earth System Models
+
+* :eyeglasses:[EmissionAI](https://github.com/ZihengSun/EmissionAI) - Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission from Space
 
 * [BassNet](https://github.com/hbutsuak95/BASS-Net),[paper-preprint](https://arxiv.org/abs/1612.00144) - Deep Learning for Land-cover Classification in Hyperspectral Images, 
 
@@ -139,11 +162,21 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 * [EQTransformer](https://github.com/smousavi05/EQTransformer) - An AI-Based Earthquake Signal Detector and Phase Picker. 
 
 
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
+
 ## Videos
 
 * [Tutorial on Microsoft Azure Machine Learning Studio (AutoML-Regression)](https://www.youtube.com/watch?v=ip5GHTMZPhA), created by Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission from Space.
 
-## Journals
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
+
+## Papers
+
+* :eyeglasses:[CIRA Guide To Custom Loss Functions For Neural Networks In Environmental Sciences - Version 1](https://arxiv.org/pdf/2106.09757.pdf)
+
+* :eyeglasses:[Zero-Shot Learning of Aerosol Optical Properties with Graph NeuralNetworks](https://arxiv.org/pdf/2107.10197.pdf)
 
 * [Ten Ways to Apply Machine Learning in Earth and Space Sciences](https://eos.org/opinions/ten-ways-to-apply-machine-learning-in-earth-and-space-sciences?mkt_tok=OTg3LUlHVC01NzIAAAF-KbKDtMdtC6CVBJS0uWL0Paw6uJRdMh8g8FbltivTqUKL3WvP3AdX9MVxc0ySwjknrG7FRo9eqdFeZLkklEjZQkqb-Z2WVUJIUziQdqc)
 
@@ -151,9 +184,16 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Google Earth Engine: Planetary-scale geospatial analysis for everyone](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
 
+
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
+
 ## Reports
 
 * [Workshop Report: Advancing Application of Machine Learning Tools for NASA’s Earth Observation Data](https://cdn.earthdata.nasa.gov/conduit/upload/14287/NASA_ML_Workshop_Report.pdf) 
+
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
 
 ## Thoughts
 
@@ -163,19 +203,30 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [37 reasons why your neural network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
+
 ## Competitions
 
-* [[HackerEarth](https://www.hackerearth.com/challenges/)]
+* :eyeglasses:[GPU Hackthons](https://www.gpuhackathons.org/) - designed to help scientists, researchers and developers to accelerate and optimize their applications on GPUs.
 
-## Newsletters
+* [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
+
+* [HackerEarth](https://www.hackerearth.com/challenges/)
 
 
+
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
 
 ## Communities
 
 * [ESIP Machine Learning Cluster](https://wiki.esipfed.org/Machine_Learning)
 
 * [ESIP Agriculture and Climate Cluster](https://wiki.esipfed.org/Agriculture_and_Climate)
+
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
 
 ## RelatedAwesome
 - [Awesome-Open-Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – ![Awesome](media/icon/awesome.png) A list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories.
@@ -186,7 +237,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 - [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - ![Awesome](media/icon/awesome.png) A curated list of awesome open source workflow engines
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - ![Awesome](media/icon/awesome.png) A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 
-
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
 
   
 
