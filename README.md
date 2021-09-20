@@ -13,7 +13,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 | | | | | |
 | - | - | - | - | - |
 | [Courses](#courses) | [Books](#books) | [Tools](#tools) | [Tutorials](#tutorials) | [Training Datasets](#traningdata) |
-| [Code](#code) | [Videos](#videos) | [Journals](#journals) | [Reports](#reports) |  [RelatedAwesome](#RelatedAwesome) |
+| [Code](#code) | [Videos](#videos) | [Papers](#papers) | [Reports](#reports) |  [RelatedAwesome](#RelatedAwesome) |
 | [Competitions](#competitions) | [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
 
 
@@ -155,7 +155,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [EQTransformer](https://github.com/smousavi05/EQTransformer) - An AI-Based Earthquake Signal Detector and Phase Picker. 
 
-* [Earth System Emulator (ESEm)](https://github.com/duncanwp/ESEm) - A tool for emulating geophysical datasets including (but not limited to) Earth System Models
+* [Earth System Emulator (ESEm)](https://github.com/duncanwp/ESEm) :eyeglasses: - A tool for emulating geophysical datasets including (but not limited to) Earth System Models
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
@@ -167,13 +167,15 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
 
-## Journals
+## Papers
 
 * [Ten Ways to Apply Machine Learning in Earth and Space Sciences](https://eos.org/opinions/ten-ways-to-apply-machine-learning-in-earth-and-space-sciences?mkt_tok=OTg3LUlHVC01NzIAAAF-KbKDtMdtC6CVBJS0uWL0Paw6uJRdMh8g8FbltivTqUKL3WvP3AdX9MVxc0ySwjknrG7FRo9eqdFeZLkklEjZQkqb-Z2WVUJIUziQdqc)
 
 * [Advancing AI for Earth Science: A Data Systems Perspective](https://eos.org/science-updates/advancing-ai-for-earth-science-a-data-systems-perspective)
 
 * [Google Earth Engine: Planetary-scale geospatial analysis for everyone](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
+
+* [Zero-Shot Learning of Aerosol Optical Properties with Graph NeuralNetworks](https://arxiv.org/pdf/2107.10197.pdf) :eyeglasses:
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
