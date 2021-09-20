@@ -94,6 +94,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [flashflight:](https://github.com/facebookresearch/flashlight) - flashflight: A C++ standalone library for machine learning. 
 
+* [Xarray-Beam](https://github.com/google/xarray-beam) - Python library for building Apache Beam pipelines with Xarray datasets.
+
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
 
@@ -137,6 +139,10 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Code
 
+* :eyeglasses:[Earth System Emulator (ESEm)](https://github.com/duncanwp/ESEm) - A tool for emulating geophysical datasets including (but not limited to) Earth System Models
+
+* :eyeglasses:[EmissionAI](https://github.com/ZihengSun/EmissionAI) - Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission from Space
+
 * [BassNet](https://github.com/hbutsuak95/BASS-Net),[paper-preprint](https://arxiv.org/abs/1612.00144) - Deep Learning for Land-cover Classification in Hyperspectral Images, 
 
 * [MTLCC](https://github.com/TUM-LMF/MTLCC) - Multitemporal Land Cover Classification Network (ConvLSTM, ConvGRU), 
@@ -155,7 +161,6 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [EQTransformer](https://github.com/smousavi05/EQTransformer) - An AI-Based Earthquake Signal Detector and Phase Picker. 
 
-* :eyeglasses:[Earth System Emulator (ESEm)](https://github.com/duncanwp/ESEm) - A tool for emulating geophysical datasets including (but not limited to) Earth System Models
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
@@ -169,13 +174,16 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Papers
 
+* :eyeglasses:[CIRA Guide To Custom Loss Functions For Neural Networks In Environmental Sciences - Version 1](https://arxiv.org/pdf/2106.09757.pdf)
+
+* :eyeglasses:[Zero-Shot Learning of Aerosol Optical Properties with Graph NeuralNetworks](https://arxiv.org/pdf/2107.10197.pdf)
+
 * [Ten Ways to Apply Machine Learning in Earth and Space Sciences](https://eos.org/opinions/ten-ways-to-apply-machine-learning-in-earth-and-space-sciences?mkt_tok=OTg3LUlHVC01NzIAAAF-KbKDtMdtC6CVBJS0uWL0Paw6uJRdMh8g8FbltivTqUKL3WvP3AdX9MVxc0ySwjknrG7FRo9eqdFeZLkklEjZQkqb-Z2WVUJIUziQdqc)
 
 * [Advancing AI for Earth Science: A Data Systems Perspective](https://eos.org/science-updates/advancing-ai-for-earth-science-a-data-systems-perspective)
 
 * [Google Earth Engine: Planetary-scale geospatial analysis for everyone](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
 
-* :eyeglasses:[Zero-Shot Learning of Aerosol Optical Properties with Graph NeuralNetworks](https://arxiv.org/pdf/2107.10197.pdf)
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
