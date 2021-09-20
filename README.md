@@ -208,7 +208,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Competitions
 
-* [[NOAA GPU Hackthon](https://www.gpuhackathons.org/event/noaa-gpu-hackathon)]
+* :eyeglasses:[GPU Hackthons](https://www.gpuhackathons.org/) - designed to help scientists, researchers and developers to accelerate and optimize their applications on GPUs.
 
 * [[HackerEarth](https://www.hackerearth.com/challenges/)]
 
