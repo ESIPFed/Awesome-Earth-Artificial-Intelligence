@@ -13,7 +13,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 | | | | | |
 | - | - | - | - | - |
 | [Courses](#courses) | [Books](#books) | [Tools](#tools) | [Tutorials](#tutorials) | [Training Datasets](#traningdata) |
-| [Code](#code) | [Videos](#videos) | [Papers](#papers) | [Reports](#reports) |  [RelatedAwesome](#RelatedAwesome) |
+| [Code](#code) | [Videos](#videos) | [Papers](#papers) | [Reports](#reports) |  [Thoughts](#thoughts) |
 | [Competitions](#competitions) | [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
 
 
@@ -210,7 +210,11 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * :eyeglasses:[GPU Hackthons](https://www.gpuhackathons.org/) - designed to help scientists, researchers and developers to accelerate and optimize their applications on GPUs.
 
-* [[HackerEarth](https://www.hackerearth.com/challenges/)]
+* [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
+
+* [HackerEarth](https://www.hackerearth.com/challenges/)
+
+
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
