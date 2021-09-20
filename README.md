@@ -138,6 +138,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [EQTransformer](https://github.com/smousavi05/EQTransformer) - An AI-Based Earthquake Signal Detector and Phase Picker. 
 
+* [Earth System Emulator (ESEm)](https://github.com/duncanwp/ESEm) - A tool for emulating geophysical datasets including (but not limited to) Earth System Models
+
 
 ## Videos
 
@@ -150,6 +152,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 * [Advancing AI for Earth Science: A Data Systems Perspective](https://eos.org/science-updates/advancing-ai-for-earth-science-a-data-systems-perspective)
 
 * [Google Earth Engine: Planetary-scale geospatial analysis for everyone](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
+
+
 
 ## Reports
 
