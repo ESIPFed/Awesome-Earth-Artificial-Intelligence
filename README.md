@@ -48,6 +48,10 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [USGS Artificial Intelligence/Machine Learning Workshop](https://my.usgs.gov/confluence/pages/viewpage.action?pageId=613780355)
 
+* [Stanford CS 229 ML Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning)
+
+* [RadiantEarth ML4EO Bootcamp 2021](https://github.com/RadiantMLHub/ml4eo-bootcamp-2021)
+
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
 
@@ -80,7 +84,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - Polyaxon, a platform for building, training, and monitoring large scale deep learning applications. A Machine Learning Platform for Kubernetes. 
 
-* [MMLSpark](https://github.com/Azure/mmlspark) - MMLSpark is an ecosystem of tools aimed towards expanding the distributed computing framework Apache Spark in several new directions. Microsoft Machine Learning for Apache Spark, 
+* [SynapseML](https://github.com/microsoft/SynapseML) - SynapseML (previously MMLSpark) is an open source library to simplify the creation of scalable machine learning pipelines. Microsoft Machine Learning for Apache Spark, 
 
 * [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Apache Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation, and an API that enforces compile-time type-safety, modularity, and reuse. 
 
@@ -114,6 +118,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 * [Planet Snow Mapping](https://github.com/acannistra/planet-snowcover) - Introduction to using Planet imagery to map snow cover
 
 * [Machine Learning Pipeline for Climate Science](https://ml-clim.github.io/drought-prediction/) - an end-to-end pipeline for the creation, intercomparison and evaluation of machine learning methods in climate science
+
+* [AI Cheatsheets](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning engineers. It contains a lot of useful tutorials to learn awesome tricks on AI engineering
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
@@ -178,6 +184,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * :eyeglasses:[Zero-Shot Learning of Aerosol Optical Properties with Graph NeuralNetworks](https://arxiv.org/pdf/2107.10197.pdf)
 
+* 👓 [NeuralHydrology - a collection of papers on using neural networks in hydrology](https://neuralhydrology.github.io/)
+
 * [Ten Ways to Apply Machine Learning in Earth and Space Sciences](https://eos.org/opinions/ten-ways-to-apply-machine-learning-in-earth-and-space-sciences?mkt_tok=OTg3LUlHVC01NzIAAAF-KbKDtMdtC6CVBJS0uWL0Paw6uJRdMh8g8FbltivTqUKL3WvP3AdX9MVxc0ySwjknrG7FRo9eqdFeZLkklEjZQkqb-Z2WVUJIUziQdqc)
 
 * [Advancing AI for Earth Science: A Data Systems Perspective](https://eos.org/science-updates/advancing-ai-for-earth-science-a-data-systems-perspective)
@@ -236,6 +244,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 - [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - ![Awesome](media/icon/awesome.png) List of aerial and satellite imagery datasets with annotations for computer vision and deep learning
 - [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - ![Awesome](media/icon/awesome.png) A curated list of awesome open source workflow engines
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - ![Awesome](media/icon/awesome.png) A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - ![Awesome](media/icon/awesome.png) A curated list of awesome Machine Learning frameworks, libraries and software
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
