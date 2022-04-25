@@ -1,4 +1,4 @@
-# Awesome-Earth-Artificial-Intelligence 
+# Awesome-Earth-Artificial-Intelligence
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  [![GitHub stars](https://img.shields.io/github/stars/ESIPFed/Awesome-Earth-Artificial-Intelligence)](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence/stargazers) [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://esip-slack-invite.herokuapp.com/) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FESIPFed%2FAwesome-Earth-Artificial-Intelligence)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FESIPFed%2FAwesome-Earth-Artificial-Intelligence)
 
@@ -51,6 +51,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 * [Stanford CS 229 ML Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
 * [RadiantEarth ML4EO Bootcamp 2021](https://github.com/RadiantMLHub/ml4eo-bootcamp-2021)
+
+* [Summer School on High-Performance and Disruptive Computing in Remote Sensing - Scaling Machine Learning for Remote Sensing using Cloud Computing](https://github.com/nasa-impact/workshop_notebooks)
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
@@ -166,6 +168,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 * [Image Classification Neural Network Ranking with source code](https://paperswithcode.com/task/image-classification) - paperswithcode has put together a list of cutting-edge papers and ranked them with the claimed accuracy.
 
 * [EQTransformer](https://github.com/smousavi05/EQTransformer) - An AI-Based Earthquake Signal Detector and Phase Picker. 
+
+* [Tropical Cyclone Windspeed Estimator](https://github.com/drivendataorg/wind-dependent-variables) - Winning solutions for Tropical Cyclone Wind Speed Prediction Competition
 
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
