@@ -59,6 +59,12 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Books
 
+* :eyeglasses:[Artificial Intelligence in Earth Science](https://www.google.com/books/edition/Artificial_Intelligence_in_Earth_Science/iH-HEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
+
+* :eyeglasses:[Artificial Intelligence Methods in the Environmental Sciences](https://books.google.com/books?id=0N4XBd5yl6oC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+
+* [Deep Learning for the Earth Sciences](https://books.google.com/books?id=Wd3gzgEACAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+
 * [How to achieve AI maturity and why it matters? (PDF)](https://www.amdocs.com/sites/default/files/filefield_paths/ai-maturity-model-whitepaper.pdf)
 
 * [70-Years-of-Machine-Learning-in-Geoscience-in-Review](https://github.com/JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review)
@@ -102,10 +108,18 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Xarray-Beam](https://github.com/google/xarray-beam) - Python library for building Apache Beam pipelines with Xarray datasets.
 
+* :eyeglasses:[pygeoweaver](https://github.com/ESIPFed/pygeoweaver) - Python library for AI & geospatial workflow management, FAIRness, tangibility and productivity improvement
+
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
 
 ## Tutorials
+
+* :eyeglasses:[GeoSMART Machine Learning Curriculum & Use Cases](https://geo-smart.github.io/usecases)
+
+* :eyeglasses:[NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/our-cookbook.html)
+
+* :eyeglasses:[Artifici intelligence in Earth science Book Materials](https://github.com/earth-artificial-intelligence/earth_ai_book_materials)
 
 * [Pixel-level land cover classification](https://github.com/Azure/pixel_level_land_classification)
 
@@ -184,9 +198,11 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Papers
 
-* :eyeglasses:[CIRA Guide To Custom Loss Functions For Neural Networks In Environmental Sciences - Version 1](https://arxiv.org/pdf/2106.09757.pdf)
+* :eyeglasses:[A Review of Earth Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S0098300422000036)
 
-* :eyeglasses:[Zero-Shot Learning of Aerosol Optical Properties with Graph NeuralNetworks](https://arxiv.org/pdf/2107.10197.pdf)
+* [CIRA Guide To Custom Loss Functions For Neural Networks In Environmental Sciences - Version 1](https://arxiv.org/pdf/2106.09757.pdf)
+
+* [Zero-Shot Learning of Aerosol Optical Properties with Graph NeuralNetworks](https://arxiv.org/pdf/2107.10197.pdf)
 
 * 👓 [NeuralHydrology - a collection of papers on using neural networks in hydrology](https://neuralhydrology.github.io/)
 
