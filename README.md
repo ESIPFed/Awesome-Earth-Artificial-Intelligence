@@ -59,9 +59,9 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Books
 
-* :eyeglasses:[Artificial Intelligence in Earth Science](https://www.google.com/books/edition/Artificial_Intelligence_in_Earth_Science/iH-HEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
+* :sunglasses:[Artificial Intelligence in Earth Science](https://www.google.com/books/edition/Artificial_Intelligence_in_Earth_Science/iH-HEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
 
-* :eyeglasses:[Artificial Intelligence Methods in the Environmental Sciences](https://books.google.com/books?id=0N4XBd5yl6oC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+* :sunglasses:[Artificial Intelligence Methods in the Environmental Sciences](https://books.google.com/books?id=0N4XBd5yl6oC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 
 * [Deep Learning for the Earth Sciences](https://books.google.com/books?id=Wd3gzgEACAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 
@@ -108,18 +108,18 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Xarray-Beam](https://github.com/google/xarray-beam) - Python library for building Apache Beam pipelines with Xarray datasets.
 
-* :eyeglasses:[pygeoweaver](https://github.com/ESIPFed/pygeoweaver) - Python library for AI & geospatial workflow management, FAIRness, tangibility and productivity improvement
+* :sunglasses:[pygeoweaver](https://github.com/ESIPFed/pygeoweaver) - Python library for AI & geospatial workflow management, FAIRness, tangibility and productivity improvement
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
 
 ## Tutorials
 
-* :eyeglasses:[GeoSMART Machine Learning Curriculum & Use Cases](https://geo-smart.github.io/usecases)
+* :sunglasses:[GeoSMART Machine Learning Curriculum & Use Cases](https://geo-smart.github.io/usecases)
 
-* :eyeglasses:[NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/our-cookbook.html)
+* :sunglasses:[NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/our-cookbook.html)
 
-* :eyeglasses:[Artifici intelligence in Earth science Book Materials](https://github.com/earth-artificial-intelligence/earth_ai_book_materials)
+* :sunglasses:[Artifici intelligence in Earth science Book Materials](https://github.com/earth-artificial-intelligence/earth_ai_book_materials)
 
 * [Pixel-level land cover classification](https://github.com/Azure/pixel_level_land_classification)
 
@@ -161,9 +161,9 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Code
 
-* :eyeglasses:[Earth System Emulator (ESEm)](https://github.com/duncanwp/ESEm) - A tool for emulating geophysical datasets including (but not limited to) Earth System Models
+* :sunglasses:[Earth System Emulator (ESEm)](https://github.com/duncanwp/ESEm) - A tool for emulating geophysical datasets including (but not limited to) Earth System Models
 
-* :eyeglasses:[EmissionAI](https://github.com/ZihengSun/EmissionAI) - Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission from Space
+* :sunglasses:[EmissionAI](https://github.com/ZihengSun/EmissionAI) - Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission from Space
 
 * [BassNet](https://github.com/hbutsuak95/BASS-Net),[paper-preprint](https://arxiv.org/abs/1612.00144) - Deep Learning for Land-cover Classification in Hyperspectral Images, 
 
@@ -198,7 +198,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Papers
 
-* :eyeglasses:[A Review of Earth Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S0098300422000036)
+* :sunglasses:[A Review of Earth Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S0098300422000036)
 
 * [CIRA Guide To Custom Loss Functions For Neural Networks In Environmental Sciences - Version 1](https://arxiv.org/pdf/2106.09757.pdf)
 
@@ -236,7 +236,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Competitions
 
-* :eyeglasses:[GPU Hackthons](https://www.gpuhackathons.org/) - designed to help scientists, researchers and developers to accelerate and optimize their applications on GPUs.
+* :sunglasses:[GPU Hackthons](https://www.gpuhackathons.org/) - designed to help scientists, researchers and developers to accelerate and optimize their applications on GPUs.
 
 * [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
 
