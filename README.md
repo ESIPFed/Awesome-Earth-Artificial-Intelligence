@@ -59,9 +59,9 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Books
 
-* :sunglasses:[Artificial Intelligence in Earth Science](https://www.google.com/books/edition/Artificial_Intelligence_in_Earth_Science/iH-HEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
+* :sunglasses: :sparkling_heart: [Artificial Intelligence in Earth Science](https://www.google.com/books/edition/Artificial_Intelligence_in_Earth_Science/iH-HEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
 
-* :sunglasses:[Artificial Intelligence Methods in the Environmental Sciences](https://books.google.com/books?id=0N4XBd5yl6oC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+* :sunglasses: :sparkling_heart: [Artificial Intelligence Methods in the Environmental Sciences](https://books.google.com/books?id=0N4XBd5yl6oC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 
 * [Deep Learning for the Earth Sciences](https://books.google.com/books?id=Wd3gzgEACAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 
@@ -200,11 +200,15 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * :sunglasses: :sparkling_heart: [A Review of Earth Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S0098300422000036)
 
+* [Big Earth data analytics: A survey](https://www.tandfonline.com/doi/full/10.1080/20964471.2019.1611175)
+
+* [Adoption of machine learning techniques in ecology and earth science](https://oneecosystem.pensoft.net/article/8621/download/pdf/)
+
 * [CIRA Guide To Custom Loss Functions For Neural Networks In Environmental Sciences - Version 1](https://arxiv.org/pdf/2106.09757.pdf)
 
 * [Zero-Shot Learning of Aerosol Optical Properties with Graph NeuralNetworks](https://arxiv.org/pdf/2107.10197.pdf)
 
-* 👓 [NeuralHydrology - a collection of papers on using neural networks in hydrology](https://neuralhydrology.github.io/)
+* [NeuralHydrology - a collection of papers on using neural networks in hydrology](https://neuralhydrology.github.io/)
 
 * [Ten Ways to Apply Machine Learning in Earth and Space Sciences](https://eos.org/opinions/ten-ways-to-apply-machine-learning-in-earth-and-space-sciences?mkt_tok=OTg3LUlHVC01NzIAAAF-KbKDtMdtC6CVBJS0uWL0Paw6uJRdMh8g8FbltivTqUKL3WvP3AdX9MVxc0ySwjknrG7FRo9eqdFeZLkklEjZQkqb-Z2WVUJIUziQdqc)
 
@@ -225,6 +229,10 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Thoughts
 
+* :sunglasses: :sparkling_heart: [Learning earth system models from observations: machine learning or data assimilation?](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2020.0089)
+
+* [Artificial intelligence: A powerful paradigm for scientific research](https://www.sciencedirect.com/science/article/pii/S2666675821001041)
+
 * [Why 90% of machine learning models never hit the market](https://thenextweb.com/news/why-most-machine-learning-models-never-hit-market-syndication)
 
 * ['Farewell Convolutions' – ML Community Applauds Anonymous ICLR 2021 Paper That Uses Transformers for Image Recognition at Scale](https://syncedreview.com/2020/10/08/farewell-convolutions-ml-community-applauds-anonymous-iclr-2021-paper-that-uses-transformers-for-image-recognition-at-scale/)
@@ -236,7 +244,9 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Competitions
 
-* :sunglasses: :sparkling_heart: [GPU Hackthons](https://www.gpuhackathons.org/) - designed to help scientists, researchers and developers to accelerate and optimize their applications on GPUs.
+* :sunglasses::sparkling_heart: [GeoAI Challenge](https://aiforgood.itu.int/about-ai-for-good/geoai-challenge/) - aimed at providing solutions for collaboratively addressing real-world geospatial problems by applying artificial intelligence (AI)/machine learning (ML)
+
+* [GPU Hackthons](https://www.gpuhackathons.org/) - designed to help scientists, researchers and developers to accelerate and optimize their applications on GPUs.
 
 * [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
 
