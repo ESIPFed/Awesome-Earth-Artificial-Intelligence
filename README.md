@@ -123,7 +123,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * :sunglasses::sparkling_heart: [NASA Openscapes Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/our-cookbook.html)
 
-* :sunglasses::sparkling_heart: [Artifici intelligence in Earth science Book Materials](https://github.com/earth-artificial-intelligence/earth_ai_book_materials)
+* :sunglasses::sparkling_heart: [Artificial Intelligence in Earth science Book Materials](https://github.com/earth-artificial-intelligence/earth_ai_book_materials)
 
 * :sunglasses::sparkling_heart: [RadiantEarth MLhub Tutorials](https://github.com/radiantearth/mlhub-tutorials)
 
