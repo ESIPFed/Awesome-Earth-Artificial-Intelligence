@@ -34,6 +34,10 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Courses
 
+* :sunglasses::sparkling_heart: [GeoSMART Machine Learning Curriculum](https://geo-smart.github.io/curriculum)
+
+* :sunglasses::sparkling_heart: [ICESat-2 Hackweek](https://icesat-2-2023.hackweek.io)
+
 * [ML Seminar: Physics-informed Machine learning for weather and climate science](https://www.youtube.com/watch?v=B_4TONeY75U) (57:35) by Dr. Karthik Kashinath from Lawrence Berkeley National Lab, Mar 19, 2021
 
 * [ML Seminar: Scalable Geospatial Analysis](https://www.youtube.com/watch?v=84VNWk_zFTM) (53:23) by Tom Augspurger from Microsoft AI for Earth, May 20, 2021 
@@ -108,7 +112,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Xarray-Beam](https://github.com/google/xarray-beam) - Python library for building Apache Beam pipelines with Xarray datasets.
 
-* :sunglasses:[pygeoweaver](https://github.com/ESIPFed/pygeoweaver) - Python library for AI & geospatial workflow management, FAIRness, tangibility and productivity improvement
+* :sunglasses: [pygeoweaver](https://github.com/ESIPFed/pygeoweaver) - Python library for AI & geospatial workflow management, FAIRness, tangibility and productivity improvement
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
@@ -117,7 +121,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * :sunglasses::sparkling_heart: [GeoSMART Machine Learning Curriculum & Use Cases](https://geo-smart.github.io/usecases)
 
-* :sunglasses::sparkling_heart: [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/our-cookbook.html)
+* :sunglasses::sparkling_heart: [NASA Openscapes Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/our-cookbook.html)
 
 * :sunglasses::sparkling_heart: [Artifici intelligence in Earth science Book Materials](https://github.com/earth-artificial-intelligence/earth_ai_book_materials)
 
