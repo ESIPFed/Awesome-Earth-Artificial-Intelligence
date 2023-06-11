@@ -127,6 +127,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * :sunglasses::sparkling_heart: [RadiantEarth MLhub Tutorials](https://github.com/radiantearth/mlhub-tutorials)
 
+* [Machine Learning Tutorials (general, not Earth science specific)](https://github.com/ethen8181/machine-learning)
+
 * [Pixel-level land cover classification](https://github.com/Azure/pixel_level_land_classification)
 
 * [EO-learn-workshop](https://github.com/sentinel-hub/eo-learn-workshop) - EO-learn-workshop: Bridging Earth Observation data and Machine Learning in Python, 
