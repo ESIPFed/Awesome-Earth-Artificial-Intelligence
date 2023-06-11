@@ -115,11 +115,11 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Tutorials
 
-* :sunglasses:[GeoSMART Machine Learning Curriculum & Use Cases](https://geo-smart.github.io/usecases)
+* :sunglasses::sparkling_heart: [GeoSMART Machine Learning Curriculum & Use Cases](https://geo-smart.github.io/usecases)
 
-* :sunglasses:[NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/our-cookbook.html)
+* :sunglasses::sparkling_heart: [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/our-cookbook.html)
 
-* :sunglasses:[Artifici intelligence in Earth science Book Materials](https://github.com/earth-artificial-intelligence/earth_ai_book_materials)
+* :sunglasses::sparkling_heart: [Artifici intelligence in Earth science Book Materials](https://github.com/earth-artificial-intelligence/earth_ai_book_materials)
 
 * [Pixel-level land cover classification](https://github.com/Azure/pixel_level_land_classification)
 
@@ -161,9 +161,9 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Code
 
-* :sunglasses:[Earth System Emulator (ESEm)](https://github.com/duncanwp/ESEm) - A tool for emulating geophysical datasets including (but not limited to) Earth System Models
+* :sunglasses::sparkling_heart: [Earth System Emulator (ESEm)](https://github.com/duncanwp/ESEm) - A tool for emulating geophysical datasets including (but not limited to) Earth System Models
 
-* :sunglasses:[EmissionAI](https://github.com/ZihengSun/EmissionAI) - Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission from Space
+* :sunglasses::sparkling_heart: [EmissionAI](https://github.com/ZihengSun/EmissionAI) - Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission from Space
 
 * [BassNet](https://github.com/hbutsuak95/BASS-Net),[paper-preprint](https://arxiv.org/abs/1612.00144) - Deep Learning for Land-cover Classification in Hyperspectral Images, 
 
@@ -198,7 +198,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Papers
 
-* :sunglasses:[A Review of Earth Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S0098300422000036)
+* :sunglasses: :sparkling_heart: [A Review of Earth Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S0098300422000036)
 
 * [CIRA Guide To Custom Loss Functions For Neural Networks In Environmental Sciences - Version 1](https://arxiv.org/pdf/2106.09757.pdf)
 
@@ -236,7 +236,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Competitions
 
-* :sunglasses:[GPU Hackthons](https://www.gpuhackathons.org/) - designed to help scientists, researchers and developers to accelerate and optimize their applications on GPUs.
+* :sunglasses: :sparkling_heart: [GPU Hackthons](https://www.gpuhackathons.org/) - designed to help scientists, researchers and developers to accelerate and optimize their applications on GPUs.
 
 * [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
 
