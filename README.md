@@ -125,6 +125,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * :sunglasses::sparkling_heart: [Artifici intelligence in Earth science Book Materials](https://github.com/earth-artificial-intelligence/earth_ai_book_materials)
 
+* :sunglasses::sparkling_heart: [RadiantEarth MLhub Tutorials](https://github.com/radiantearth/mlhub-tutorials)
+
 * [Pixel-level land cover classification](https://github.com/Azure/pixel_level_land_classification)
 
 * [EO-learn-workshop](https://github.com/sentinel-hub/eo-learn-workshop) - EO-learn-workshop: Bridging Earth Observation data and Machine Learning in Python, 
