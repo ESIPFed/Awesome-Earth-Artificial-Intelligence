@@ -208,6 +208,10 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * :sunglasses: :sparkling_heart: [A Review of Earth Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S0098300422000036)
 
+* [Towards practical artificial intelligence in Earth sciences](https://link.springer.com/article/10.1007/s10596-024-10317-7)
+
+* [A Review of Practical AI for Remote Sensing in Earth Sciences](https://www.mdpi.com/2072-4292/15/16/4112)
+
 * [Big Earth data analytics: A survey](https://www.tandfonline.com/doi/full/10.1080/20964471.2019.1611175)
 
 * [Adoption of machine learning techniques in ecology and earth science](https://oneecosystem.pensoft.net/article/8621/download/pdf/)
