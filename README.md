@@ -199,6 +199,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Tropical Cyclone Windspeed Estimator](https://github.com/drivendataorg/wind-dependent-variables) - Winning solutions for Tropical Cyclone Wind Speed Prediction Competition
 
+* [Infernis](https://github.com/argonBIsystems/infernis) - Open-source ML-powered wildfire risk prediction engine for British Columbia. XGBoost + CNN trained on 10 fire seasons (2015-2024) from 21 open government and scientific data sources. Provides a free [REST API](https://infernis.ca/v1/docs) with daily predictions at 5km resolution.
+
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
