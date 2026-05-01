@@ -170,6 +170,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [STanford EArthquake Dataset (STEAD)](https://github.com/smousavi05/STEAD) - A Global Data Set of Seismic Signals for AI
 
+* [ZipCheckup](https://zipcheckup.com) - Free ZIP-level environmental safety dataset for 42,000+ US ZIP codes covering water quality, air quality, PFAS contamination, radon, lead, flood risk, and 11 additional verticals. Public REST API and npm/PyPI packages for ML pipelines. CC BY 4.0.
+
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
 
