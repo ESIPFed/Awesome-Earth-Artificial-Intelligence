@@ -78,6 +78,10 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Tools
 
+* [GRIME AI](https://github.com/GRIME-Lab/GRIME-AI/wiki) [website](https://gaugecam.org/): A comprehensive suite of tools that facilitates a complete workflow for ecohydrological research using public and private collections of ground-based time-lapse imagery. From image acquisition to visualization to machine learning and artificial intelligence applications.,
+
+* [GRIME2](https://github.com/gaugecam-dev/GRIME2/wiki) [website](https://gaugecam.org/): Software dedicated to measuring water level using a camera. Use ground-based time-lapse imagery with an octagon target in the scene and automatically measure water level.,
+
 * [eo-learn](https://github.com/sentinel-hub/eo-learn): Earth observation processing framework for machine learning in Python,
 
 * [EarthML](https://github.com/pyviz-topics/EarthML) [website](http://earthml.holoviz.org/):  Tools for working with machine learning in earth science, 
