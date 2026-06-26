@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  [![GitHub stars](https://img.shields.io/github/stars/ESIPFed/Awesome-Earth-Artificial-Intelligence)](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence/stargazers) [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://esip-slack-invite.herokuapp.com/) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FESIPFed%2FAwesome-Earth-Artificial-Intelligence)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FESIPFed%2FAwesome-Earth-Artificial-Intelligence)
 
-A curated list of tutorials, notebooks, software, datasets, courses, books, video lectures and papers specifically for Artificial Intelligence (AI) use cases in Earth Science.
+A curated list of tutorials, notebooks, software, datasets, courses, books, video lectures and papers specifically for Artificial Intelligence (AI) use cases in Earth Science — with emphasis on open-source tools, freely accessible papers, and reproducible benchmarks (including geospatial and weather/climate foundation models).
 
 Maintained by ESIP Machine Learning Cluster. Free and open to inspire AI for Good.
 
@@ -12,9 +12,9 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 | | | | | |
 | - | - | - | - | - |
-| [Courses](#courses) | [Books](#books) | [Tools](#tools) | [Tutorials](#tutorials) | [Training Datasets](#traningdata) |
-| [Code](#code) | [Videos](#videos) | [Papers](#papers) | [Reports](#reports) |  [Thoughts](#thoughts) |
-| [Competitions](#competitions) | [Communities](#communities) | [RelatedAwesome](#RelatedAwesome) |
+| [Courses](#courses) | [Books](#books) | [Tools](#tools) | [Foundation Models](#foundation-models) | [Tutorials](#tutorials) |
+| [Training Datasets](#training-data) | [Code](#code) | [Videos](#videos) | [Papers](#papers) | [Reports](#reports) |
+| [Thoughts](#thoughts) | [Competitions](#competitions) | [Communities](#communities) | [RelatedAwesome](#relatedawesome) | |
 
 
 
@@ -25,8 +25,9 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 | Geosphere | <ul><li>How to identify hidden signals of earthquakes?</li> <li>How to learn the spatio-temporal relationships amonog earthquakes and make predictions based on the relationship?</li> <li>How to capture complex relationships of volcano-seismic data and classify explosion quakes in volcanos?</li> <li>How to predict landslides</li> <li>How to estimate the damage?</li></ul> |
 | Atmosphere | <ul><li>How to trace and predict climate change using machine learning?</li><li>How to predict hurricane?</li><li>How to monitor and predict meteorological drought?</li><li>How to detect wildfire early?</li><li>How to monitor and predict air quality?</li><li>How to predict dust storm?</li><li>How to accelerate the model simulation and lower the computing costs?</li></ul> |
 | Hydrosphere | <ul><li>How to do high spatio-temporal resoluton waterbody mapping?</li><li>How to get insights of water quality from remote sensing?</li><li>How to monitor, and predict snow melt as a water resource?</li></ul> |
-| Biosphere | <ul><li>How to do high spatio-temporal resoluton forest mapping?</li><li>How to do high spatio-temporal resoluton crop mapping?</li><li>How to do high spatio-temporal resoluton animal mapping?</li></ul> |
+| Biosphere | <ul><li>How to do high spatio-temporal resoluton forest mapping?</li><li>How to do high spatio-temporal resoluton crop mapping?</li><li>How to do high spatio-temporal resoluton animal mapping?</li><li>How to fine-tune geospatial foundation models with sparse labels?</li></ul> |
 | Cryosphere | <ul><li>How to do high spatio-temporal resoluton mapping and classification of sea ice?</li><li>How to monitor and predict glacier/ice sheet mass loss?</li></ul> |
+| Cross-cutting | <ul><li>How to benchmark geospatial foundation models reproducibly across sensors and tasks?</li><li>How to combine physics-based models with machine learning for weather and climate?</li><li>How to build trustworthy, uncertainty-aware AI for operational Earth science?</li><li>How to use vision-language models for interactive Earth observation analysis?</li></ul> |
 
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
@@ -36,7 +37,11 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * :sunglasses::sparkling_heart: [GeoSMART Machine Learning Curriculum](https://geo-smart.github.io/curriculum)
 
-* :sunglasses::sparkling_heart: [ICESat-2 Hackweek](https://icesat-2-2023.hackweek.io)
+* :sunglasses::sparkling_heart: [Introduction to Machine Learning for Earth Observation (EO College MOOC)](https://eo-college.org/courses/introduction-to-machine-learning-for-earth-observation/) - Free MOOC from TUM/DLR covering classification, object detection, change detection, SAR, and self-supervised learning for EO
+
+* :sunglasses::sparkling_heart: [GeoAI with Python: A Practical Guide to Open-Source Geospatial AI](https://github.com/giswqs/GeoAI-Book) [Zenodo](https://zenodo.org/records/19207014) - Open-access book with 23 chapters of executable code for segmentation, detection, change detection, and foundation models
+
+* [ICESat-2 Hackweek](https://icesat-2-2023.hackweek.io)
 
 * [ML Seminar: Physics-informed Machine learning for weather and climate science](https://www.youtube.com/watch?v=B_4TONeY75U) (57:35) by Dr. Karthik Kashinath from Lawrence Berkeley National Lab, Mar 19, 2021
 
@@ -118,6 +123,28 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * :sunglasses: [pygeoweaver](https://github.com/ESIPFed/pygeoweaver) - Python library for AI & geospatial workflow management, FAIRness, tangibility and productivity improvement
 
+* :sunglasses: [TorchGeo](https://github.com/torchgeo/torchgeo) [docs](https://torchgeo.readthedocs.io/) - PyTorch domain library with 100+ geospatial datasets, spatial samplers, multispectral transforms, and pretrained backbones (Prithvi, DOFA, ScaleMAE)
+
+* :sunglasses: [TerraTorch](https://github.com/IBM/terratorch) [paper](https://arxiv.org/abs/2503.20563) - Fine-tuning and benchmarking toolkit for geospatial foundation models; integrates with GEO-Bench-2 and Hugging Face weights
+
+* :sunglasses: [GeoAI](https://github.com/opengeos/geoai) [docs](https://opengeoai.org/) - Unified Python framework for EO deep learning: segmentation, detection, change detection, and foundation model workflows
+
+* [segment-geospatial (samgeo)](https://github.com/opengeos/segment-geospatial) [docs](https://samgeo.gishub.org/) - Segment Anything Model (SAM) and HQ-SAM for geospatial imagery segmentation
+
+* [WeatherBench 2](https://github.com/google-research/weatherbench2) [docs](https://weatherbench2.readthedocs.io/) - Open evaluation framework and leaderboard for data-driven global weather models
+
+* [GEO-Bench-2](https://github.com/The-AI-Alliance/GEO-Bench-2) [leaderboard](https://huggingface.co/spaces/aialliance/GEO-Bench-2-Leaderboard) [paper](https://arxiv.org/abs/2511.15658) - Reproducible benchmark for geospatial foundation models across 19 permissively licensed datasets
+
+* [Makani](https://github.com/NVIDIA/makani) - Scalable training framework for ML weather models (FourCastNet 3); Apache 2.0
+
+* [torch-harmonics](https://github.com/NVIDIA/torch-harmonics) - Differentiable signal processing on the sphere for geometric weather ML; BSD-3-Clause
+
+* [SeisBench](https://github.com/seisbench/seisbench) [docs](https://seisbench.readthedocs.io/) - Open toolbox for earthquake ML: phase picking, event detection, pretrained models, and benchmark datasets
+
+* [ClimateLearn](https://github.com/aditya-grover/climate-learn) [paper](https://arxiv.org/abs/2307.01909) - PyTorch library for weather forecasting and climate downscaling benchmarks (ERA5, CMIP6)
+
+* [ai-models](https://github.com/ecmwf-lab/ai-models) - Open-source CLI to run AI weather models (GraphCast, FourCastNet, Pangu-Weather) with ECMWF data pipelines
+
 * [Wildlife Insights](https://www.wildlifeinsights.org/) - Google-backed production platform for automated species identification from camera trap images using deep learning, integrating with GBIF and supporting large-scale biodiversity monitoring.
 
 * [iNaturalist Computer Vision](https://www.inaturalist.org/pages/computer_vision_demo) - Species identification model trained on community-contributed observations covering 76,000+ taxa; powers the iNaturalist app's AI suggestion feature and is openly described in peer-reviewed literature.
@@ -127,9 +154,50 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
 
+## Foundation Models
+
+Open pretrained models for Earth observation, weather, and climate. We list models with publicly released weights and permissive open-source licenses.
+
+### Earth Observation
+
+* :sunglasses::sparkling_heart: [Prithvi-EO-2.0](https://github.com/NASA-IMPACT/Prithvi-EO-2.0) [weights](https://huggingface.co/ibm-nasa-geospatial) [paper](https://arxiv.org/abs/2412.02732) - Multi-temporal ViT foundation model (300M/600M) trained on 4.2M global HLS time series at 30 m
+
+* :sunglasses::sparkling_heart: [Clay](https://github.com/Clay-foundation/model) [docs](https://clay-foundation.github.io/model/) [weights](https://huggingface.co/made-with-clay/Clay) - Sensor-agnostic MAE foundation model (v1.5) for EO embeddings across Sentinel-2, Landsat, Sentinel-1, and custom sensors; Apache 2.0
+
+* [TerraMind](https://github.com/ibm/terramind) [weights](https://huggingface.co/ibm-esa-geospatial) [paper](https://arxiv.org/abs/2504.11171) - Any-to-any generative multimodal EO foundation model (IBM/ESA Φ-lab); integrates with TerraTorch
+
+* [DOFA](https://github.com/zhu-xlab/DOFA) [paper](https://arxiv.org/abs/2403.15356) - Dynamic One-For-All multimodal foundation model with wavelength-conditioned hypernetworks for cross-sensor generalization
+
+* [Copernicus-FM](https://github.com/zhu-xlab/Copernicus-FM) [paper](https://arxiv.org/abs/2503.11849) - Unified Copernicus foundation model across Sentinel missions with Copernicus-Pretrain and Copernicus-Bench
+
+* [AlphaEarth Foundations](https://arxiv.org/abs/2507.22291) [embeddings](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL) - Global 10 m embedding field layers (2017–2024) for sparse-label mapping; annual embeddings on Google Earth Engine and GCS
+
+### Weather and Climate
+
+* :sunglasses::sparkling_heart: [Prithvi-WxC](https://github.com/NASA-IMPACT/Prithvi-WxC) [weights](https://huggingface.co/Prithvi-WxC) [paper](https://arxiv.org/abs/2409.13598) - 2.3B-parameter weather/climate foundation model on MERRA-2 for forecasting, downscaling, and parameterization
+
+* [GraphCast / GenCast](https://github.com/google-deepmind/graphcast) [GraphCast paper](https://arxiv.org/abs/2212.12794) [GenCast paper](https://arxiv.org/abs/2312.15796) - GNN-based medium-range global weather forecasting and diffusion ensemble forecasting; Apache 2.0
+
+* [Aurora](https://github.com/microsoft/aurora) [docs](https://microsoft.github.io/aurora/) [paper](https://arxiv.org/abs/2405.13063) - 1.3B-parameter atmospheric foundation model for weather, air pollution, and ocean waves
+
+* [NeuralGCM](https://github.com/neuralgcm/neuralgcm) [dycore](https://github.com/neuralgcm/dinosaur) [paper](https://arxiv.org/abs/2311.07222) - Differentiable hybrid general circulation model combining physics-based dynamics with learned components; Apache 2.0 code, CC BY-SA 4.0 weights
+
+* [FourCastNet 3](https://arxiv.org/abs/2507.12144) [training code](https://github.com/NVIDIA/makani) - Probabilistic spherical-convolution weather ensemble forecasting at 0.25°; open training via Makani
+
+| ▲ [Top](#awesome-earth-artificial-intelligence) |
+| --- |
+
 ## Tutorials
 
 * :sunglasses::sparkling_heart: [GeoSMART Machine Learning Curriculum & Use Cases](https://geo-smart.github.io/usecases)
+
+* :sunglasses::sparkling_heart: [GeoAI with Python Book Code](https://github.com/giswqs/GeoAI-Book) - Executable notebooks for seven core GeoAI tasks and foundation model workflows
+
+* :sunglasses::sparkling_heart: [GeoAI Video Tutorials](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPcvENqwaPa_QwbbkZ5sctZE) [docs](https://opengeoai.org/) - Step-by-step GeoAI package tutorials from Open Geospatial Solutions
+
+* :sunglasses::sparkling_heart: [TerraTorch Documentation](https://terrastackai.github.io/terratorch/stable/) - Fine-tuning guides for Prithvi, TerraMind, Clay, and GEO-Bench-2 benchmarking
+
+* :sunglasses::sparkling_heart: [NeuralGCM Inference Quickstart](https://neuralgcm.readthedocs.io/en/latest/inference_demo.html) - Run pretrained hybrid GCM weather forecasts with open checkpoints on GCS
 
 * :sunglasses::sparkling_heart: [NASA Openscapes Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/our-cookbook.html)
 
@@ -166,6 +234,14 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog)
 
+* [AlphaEarth Satellite Embeddings](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL) [paper](https://arxiv.org/abs/2507.22291) - Global annual 10 m embedding fields (2017–2024) from AlphaEarth Foundations; also on [GCS](https://console.cloud.google.com/storage/browser/alphaearth_foundations)
+
+* [GEO-Bench-2 Datasets](https://github.com/The-AI-Alliance/GEO-Bench-2) - 19 permissively licensed benchmark datasets for geospatial foundation model evaluation on Hugging Face
+
+* [Copernicus-Embed-025deg](https://github.com/zhu-xlab/Copernicus-FM) - Global 0.25° embedding map integrating multi-source Sentinel observations (released with Copernicus-FM)
+
+* [WeatherBench 2 ERA5 Zarr](https://github.com/google-research/weatherbench2) - Open cloud-optimized ERA5 and baseline forecast data for ML weather model training and evaluation
+
 * [University of California Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 
 * [EuroSAT Dataset](https://github.com/phelber/EuroSAT) - EuroSAT Dataset: Land Use and Land Cover Classification with Sentinel-2, 
@@ -184,6 +260,16 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 * :sunglasses::sparkling_heart: [Earth System Emulator (ESEm)](https://github.com/duncanwp/ESEm) - A tool for emulating geophysical datasets including (but not limited to) Earth System Models
 
 * :sunglasses::sparkling_heart: [EmissionAI](https://github.com/ZihengSun/EmissionAI) - Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission from Space
+
+* [Prithvi-EO-2.0 Fine-tuning Examples](https://github.com/NASA-IMPACT/Prithvi-EO-2.0) - TerraTorch configs for burn scars, flood mapping, crop type, and multi-temporal land cover
+
+* [TEOChat](https://github.com/ermongroup/TEOChat) [paper](https://arxiv.org/abs/2410.06234) - Temporal vision-language assistant for change detection, damage assessment, and EO dialogue
+
+* [GeoChat](https://github.com/mbzuai-oryx/GeoChat) [paper](https://arxiv.org/abs/2311.15826) - Grounded large vision-language model for remote sensing QA, captioning, and referring detection
+
+* [EarthDial](https://github.com/hiyamdebary/EarthDial) [paper](https://arxiv.org/abs/2412.15190) - Multi-spectral, multi-temporal vision-language model for EO dialogue across 44 downstream datasets
+
+* [Copernicus-FM](https://github.com/zhu-xlab/Copernicus-FM) - Unified Copernicus foundation model with pretraining and benchmark code (ICCV 2025)
 
 * [BassNet](https://github.com/hbutsuak95/BASS-Net),[paper-preprint](https://arxiv.org/abs/1612.00144) - Deep Learning for Land-cover Classification in Hyperspectral Images, 
 
@@ -213,6 +299,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Videos
 
+* [GeoAI Tutorials Playlist](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPcvENqwaPa_QwbbkZ5sctZE) - Open Geospatial Solutions tutorials on segmentation, detection, and QGIS GeoAI plugin workflows
+
 * [Tutorial on Microsoft Azure Machine Learning Studio (AutoML-Regression)](https://www.youtube.com/watch?v=ip5GHTMZPhA), created by Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission from Space.
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
@@ -222,9 +310,45 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * :sunglasses: :sparkling_heart: [A Review of Earth Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S0098300422000036)
 
+* :sunglasses: :sparkling_heart: [Foundation Models for Remote Sensing and Earth Observation: A Survey](https://arxiv.org/abs/2410.16602) - Taxonomy of visual, vision-language, and LLM-based RSFMs with benchmarking across public datasets
+
 * [Towards practical artificial intelligence in Earth sciences](https://link.springer.com/article/10.1007/s10596-024-10317-7)
 
 * [A Review of Practical AI for Remote Sensing in Earth Sciences](https://www.mdpi.com/2072-4292/15/16/4112)
+
+* [Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications](https://arxiv.org/abs/2412.02732)
+
+* [Prithvi WxC: Foundation Model for Weather and Climate](https://arxiv.org/abs/2409.13598)
+
+* [TerraMind: Large-Scale Generative Multimodality for Earth Observation](https://arxiv.org/abs/2504.11171)
+
+* [TerraTorch: The Geospatial Foundation Models Toolkit](https://arxiv.org/abs/2503.20563)
+
+* [AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data](https://arxiv.org/abs/2507.22291)
+
+* [GEO-Bench-2: From Performance to Capability, Rethinking Evaluation in Geospatial AI](https://arxiv.org/abs/2511.15658)
+
+* [Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities (DOFA)](https://arxiv.org/abs/2403.15356)
+
+* [FourCastNet 3: A geometric approach to probabilistic machine-learning weather forecasting at scale](https://arxiv.org/abs/2507.12144)
+
+* [GraphCast: Learning skillful medium-range global weather forecasting](https://arxiv.org/abs/2212.12794)
+
+* [GenCast: Diffusion-based ensemble forecasting for medium-range weather](https://arxiv.org/abs/2312.15796)
+
+* [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
+
+* [Neural General Circulation Models for Weather and Climate](https://arxiv.org/abs/2311.07222)
+
+* [TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data](https://arxiv.org/abs/2410.06234)
+
+* [GeoChat: Grounded Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2311.15826)
+
+* [EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues](https://arxiv.org/abs/2412.15190)
+
+* [Towards a Unified Copernicus Foundation Model for Earth Vision](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Towards_a_Unified_Copernicus_Foundation_Model_for_Earth_Vision_ICCV_2025_paper.html) [arxiv](https://arxiv.org/abs/2503.11849)
+
+* [Advances on Multimodal Remote Sensing Foundation Models for Earth Observation Downstream Tasks: A Survey](https://www.mdpi.com/2072-4292/17/21/3532) - Open-access review of vision-X multimodal RSFMs
 
 * [Big Earth data analytics: A survey](https://www.tandfonline.com/doi/full/10.1080/20964471.2019.1611175)
 
@@ -236,11 +360,15 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [NeuralHydrology - a collection of papers on using neural networks in hydrology](https://neuralhydrology.github.io/)
 
-* [Ten Ways to Apply Machine Learning in Earth and Space Sciences](https://eos.org/opinions/ten-ways-to-apply-machine-learning-in-earth-and-space-sciences?mkt_tok=OTg3LUlHVC01NzIAAAF-KbKDtMdtC6CVBJS0uWL0Paw6uJRdMh8g8FbltivTqUKL3WvP3AdX9MVxc0ySwjknrG7FRo9eqdFeZLkklEjZQkqb-Z2WVUJIUziQdqc)
+* [Ten Ways to Apply Machine Learning in Earth and Space Sciences](https://eos.org/opinions/ten-ways-to-apply-machine-learning-in-earth-and-space-sciences)
 
 * [Advancing AI for Earth Science: A Data Systems Perspective](https://eos.org/science-updates/advancing-ai-for-earth-science-a-data-systems-perspective)
 
 * [Google Earth Engine: Planetary-scale geospatial analysis for everyone](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
+
+* [WeatherBench 2: A benchmark for the next generation of data-driven global weather models](https://arxiv.org/abs/2308.15560)
+
+* [ClimateLearn: Benchmarking Machine Learning for Weather and Climate Modeling](https://arxiv.org/abs/2307.01909)
 
 * [PCA-OS: A Planetary Climate Adaptation Operating System](https://chaoyue0307.github.io/PCA-OS/) (KDD 2026 Blue Sky Ideas Track) - Frames climate adaptation as a continual learning and decision loop over an intervention-aware global causal knowledge graph, fusing Earth-observation signals and operational traces into versioned, auditable adaptation interventions and robust decision portfolios.
 
@@ -274,6 +402,10 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * :sunglasses::sparkling_heart: [GeoAI Challenge](https://aiforgood.itu.int/about-ai-for-good/geoai-challenge/) - aimed at providing solutions for collaboratively addressing real-world geospatial problems by applying artificial intelligence (AI)/machine learning (ML)
 
+* [2025 GeoAI Challenge: Cropland Mapping in Dry Environments](https://zindi.africa/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments) - ITU/FAO challenge on distinguishing cropland from pasture in Fergana and Orenburg using time-series satellite imagery
+
+* [2026 GeoAI Challenge: Reaching new heights with GeoFM](https://aiforgood.itu.int/about-us/geoai-challenge/) - ITU/ESA Φ-lab challenge on global surface height and land-cover mapping with open satellite imagery and GeoFM embeddings
+
 * [GPU Hackthons](https://www.gpuhackathons.org/) - designed to help scientists, researchers and developers to accelerate and optimize their applications on GPUs.
 
 * [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
@@ -291,6 +423,10 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [ESIP Agriculture and Climate Cluster](https://wiki.esipfed.org/Agriculture_and_Climate)
 
+* [AI Alliance Climate & Sustainability Group](https://thealliance.ai/blog/geo-bench-2-from-performance-to-capability-rethinking-evaluation-in-geospatial-ai) - Community behind GEO-Bench-2 and open geospatial foundation model evaluation
+
+* [TorchGeo Community](https://torchgeo.org/) - OSGeo community project for geospatial deep learning in PyTorch
+
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
 
@@ -298,6 +434,10 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 - [Awesome-Open-Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – ![Awesome](media/icon/awesome.png) A list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories.
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](media/icon/awesome.png) Awesome list for geospatial, not specific to geoscience but significant overlap
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – ![Awesome](media/icon/awesome.png) Awesome list for atmospheric, ocean, climate, and hydrologic science
+- [awesome-weather-models](https://github.com/rebase-energy/awesome-weather-models) – ![Awesome](media/icon/awesome.png) Catalogue of AI-based weather forecasting models with open-source and open-weights status
+- [awesome-WeatherAI](https://github.com/HeQinWill/awesome-WeatherAI) – ![Awesome](media/icon/awesome.png) Papers, datasets, and open model implementations for AI weather and climate
+- [Awesome_AI4Earth](https://github.com/taohan10200/Awesome_AI4Earth) – ![Awesome](media/icon/awesome.png) Deep learning for Earth system science, especially data-driven weather prediction
+- [Awesome-AI-for-Atmosphere-and-Ocean](https://github.com/XiongWeiTHU/Awesome-AI-for-Atmosphere-and-Ocean) – ![Awesome](media/icon/awesome.png) Research papers on AI for atmospheric science and oceanography
 - [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – ![Awesome](media/icon/awesome.png) Awesome list for coastal engineers and scientists
 - [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - ![Awesome](media/icon/awesome.png) List of aerial and satellite imagery datasets with annotations for computer vision and deep learning
 - [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - ![Awesome](media/icon/awesome.png) A curated list of awesome open source workflow engines
