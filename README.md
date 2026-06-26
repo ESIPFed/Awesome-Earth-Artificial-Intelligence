@@ -242,6 +242,8 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Google Earth Engine: Planetary-scale geospatial analysis for everyone](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
 
+* [PCA-OS: A Planetary Climate Adaptation Operating System](https://chaoyue0307.github.io/PCA-OS/) (KDD 2026 Blue Sky Ideas Track) - Frames climate adaptation as a continual learning and decision loop over an intervention-aware global causal knowledge graph, fusing Earth-observation signals and operational traces into versioned, auditable adaptation interventions and robust decision portfolios.
+
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
