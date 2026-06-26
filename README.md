@@ -83,106 +83,76 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 ## Tools
 
-* [GRIME AI](https://github.com/GRIME-Lab/GRIME-AI/wiki) [website](https://gaugecam.org/): A comprehensive suite of tools that facilitates a complete workflow for ecohydrological research using public and private collections of ground-based time-lapse imagery. From image acquisition to visualization to machine learning and artificial intelligence applications.,
-
-* [GRIME2](https://github.com/gaugecam-dev/GRIME2/wiki) [website](https://gaugecam.org/): Software dedicated to measuring water level using a camera. Use ground-based time-lapse imagery with an octagon target in the scene and automatically measure water level.,
-
-* [eo-learn](https://github.com/sentinel-hub/eo-learn): Earth observation processing framework for machine learning in Python,
-
-* [EarthML](https://github.com/pyviz-topics/EarthML) [website](http://earthml.holoviz.org/):  Tools for working with machine learning in earth science, 
-
-* [ML visualization tool](https://github.com/lutzroeder/netron) - A Visualization tool for neural network, deep learning and machine learning models, support ONNX (.onnx, .pb, .pbtxt), Keras (.h5, .keras), Core ML (.mlmodel), Caffe (.caffemodel, .prototxt), Caffe2 (predict_net.pb), Darknet (.cfg), MXNet (.model, -symbol.json), Barracuda (.nn), ncnn (.param), Tengine (.tmfile), TNN (.tnnproto), UFF (.uff) and TensorFlow Lite (.tflite). 
-
-* [Dopamine](https://github.com/google/dopamine)  is a research framework for fast prototyping of reinforcement learning algorithms, 
-
-* [mlflow](https://github.com/mlflow/mlflow) - MLflow: A Machine Learning Lifecycle Platform, 
-
-* [Snips NLU](https://github.com/snipsco/snips-nlu) Snips NLU (Natural Language Understanding) is a Python library that allows to extract structured information from sentences written in natural language. 
-
-* [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an Explainable AutoML framework for developers built on top of Pytorch. It enables you to build, train and test state of the art ML models in as simple as one line of code. 
-
-* [TensorFlow Hub](https://github.com/tensorflow/hub) TensorFlow Hub is a repository of reusable assets for machine learning with TensorFlow. In particular, it provides pre-trained SavedModels that can be reused to solve new tasks with less training time and less training data. 
-
-* [Polyaxon](https://github.com/polyaxon/polyaxon) - Polyaxon, a platform for building, training, and monitoring large scale deep learning applications. A Machine Learning Platform for Kubernetes. 
-
-* [SynapseML](https://github.com/microsoft/SynapseML) - SynapseML (previously MMLSpark) is an open source library to simplify the creation of scalable machine learning pipelines. Microsoft Machine Learning for Apache Spark, 
-
-* [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Apache Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation, and an API that enforces compile-time type-safety, modularity, and reuse. 
-
-* [Microsoft AI for Earth API Platform](https://github.com/microsoft/AIforEarth-API-Platform) - Microsoft AI for Earth API Platform is a distributed infrastructure designed to provide a secure, scalable, and customizable API hosting, designed to handle the needs of long-running/asynchronous machine learning model inference. It is based on Azure and Kubernetes. 
-
-* [OneFlow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework. 
-
-* [ml.js](https://github.com/mljs/ml) - ml.js - Machine learning tools in JavaScript. 
-
-* [BentoML](https://github.com/bentoml/BentoML) - BentoML is an open-source framework for high-performance ML model serving. 
-
-* [flashflight:](https://github.com/facebookresearch/flashlight) - flashflight: A C++ standalone library for machine learning. 
-
-* [Xarray-Beam](https://github.com/google/xarray-beam) - Python library for building Apache Beam pipelines with Xarray datasets.
-
-* :sunglasses: [pygeoweaver](https://github.com/ESIPFed/pygeoweaver) - Python library for AI & geospatial workflow management, FAIRness, tangibility and productivity improvement
-
-* :sunglasses: [TorchGeo](https://github.com/torchgeo/torchgeo) [docs](https://torchgeo.readthedocs.io/) - PyTorch domain library with 100+ geospatial datasets, spatial samplers, multispectral transforms, and pretrained backbones (Prithvi, DOFA, ScaleMAE)
-
-* :sunglasses: [TerraTorch](https://github.com/IBM/terratorch) [paper](https://arxiv.org/abs/2503.20563) - Fine-tuning and benchmarking toolkit for geospatial foundation models; integrates with GEO-Bench-2 and Hugging Face weights
-
-* :sunglasses: [GeoAI](https://github.com/opengeos/geoai) [docs](https://opengeoai.org/) - Unified Python framework for EO deep learning: segmentation, detection, change detection, and foundation model workflows
-
-* [segment-geospatial (samgeo)](https://github.com/opengeos/segment-geospatial) [docs](https://samgeo.gishub.org/) - Segment Anything Model (SAM) and HQ-SAM for geospatial imagery segmentation
-
-* [WeatherBench 2](https://github.com/google-research/weatherbench2) [docs](https://weatherbench2.readthedocs.io/) - Open evaluation framework and leaderboard for data-driven global weather models
-
-* [GEO-Bench-2](https://github.com/The-AI-Alliance/GEO-Bench-2) [leaderboard](https://huggingface.co/spaces/aialliance/GEO-Bench-2-Leaderboard) [paper](https://arxiv.org/abs/2511.15658) - Reproducible benchmark for geospatial foundation models across 19 permissively licensed datasets
-
-* [Makani](https://github.com/NVIDIA/makani) - Scalable training framework for ML weather models (FourCastNet 3); Apache 2.0
-
-* [torch-harmonics](https://github.com/NVIDIA/torch-harmonics) - Differentiable signal processing on the sphere for geometric weather ML; BSD-3-Clause
-
-* [SeisBench](https://github.com/seisbench/seisbench) [docs](https://seisbench.readthedocs.io/) - Open toolbox for earthquake ML: phase picking, event detection, pretrained models, and benchmark datasets
-
-* [ClimateLearn](https://github.com/aditya-grover/climate-learn) [paper](https://arxiv.org/abs/2307.01909) - PyTorch library for weather forecasting and climate downscaling benchmarks (ERA5, CMIP6)
+Earth observation, geospatial, weather, and climate software only. Entries are sorted alphabetically by name. `:sunglasses:` marks maintainer picks for this list (not a quality tier). For pretrained model weights, see [Foundation Models](#foundation-models). For general ML infrastructure, see [RelatedAwesome](#relatedawesome).
 
 * [ai-models](https://github.com/ecmwf-lab/ai-models) - Open-source CLI to run AI weather models (GraphCast, FourCastNet, Pangu-Weather) with ECMWF data pipelines
 
-* [Wildlife Insights](https://www.wildlifeinsights.org/) - Google-backed production platform for automated species identification from camera trap images using deep learning, integrating with GBIF and supporting large-scale biodiversity monitoring.
+* [ClimateLearn](https://github.com/aditya-grover/climate-learn) [paper](https://arxiv.org/abs/2307.01909) - PyTorch library for weather forecasting and climate downscaling benchmarks (ERA5, CMIP6)
 
-* [iNaturalist Computer Vision](https://www.inaturalist.org/pages/computer_vision_demo) - Species identification model trained on community-contributed observations covering 76,000+ taxa; powers the iNaturalist app's AI suggestion feature and is openly described in peer-reviewed literature.
+* [EarthML](https://github.com/pyviz-topics/EarthML) [website](http://earthml.holoviz.org/) - Tools for working with machine learning in earth science
 
-* [Global Forest Watch](https://www.globalforestwatch.org/) - ML-powered deforestation and forest cover change monitoring platform using satellite imagery analysis; provides near-real-time alerts used by researchers and conservation organizations globally.
+* [eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python
+
+* [GEO-Bench-2](https://github.com/The-AI-Alliance/GEO-Bench-2) [leaderboard](https://huggingface.co/spaces/aialliance/GEO-Bench-2-Leaderboard) [paper](https://arxiv.org/abs/2511.15658) - Reproducible benchmark for geospatial foundation models across 19 permissively licensed datasets
+
+* :sunglasses: [GeoAI](https://github.com/opengeos/geoai) [docs](https://opengeoai.org/) - Unified Python framework for EO deep learning: segmentation, detection, change detection, and foundation model workflows
+
+* [GRIME AI](https://github.com/GRIME-Lab/GRIME-AI/wiki) [website](https://gaugecam.org/) - Ecohydrological workflow suite for ground-based time-lapse imagery, from acquisition through ML applications
+
+* [GRIME2](https://github.com/gaugecam-dev/GRIME2/wiki) [website](https://gaugecam.org/) - Camera-based water level measurement from ground-based time-lapse imagery
+
+* [Makani](https://github.com/NVIDIA/makani) - Scalable training framework for ML weather models (FourCastNet 3); Apache 2.0
+
+* [Microsoft AI for Earth API Platform](https://github.com/microsoft/AIforEarth-API-Platform) - Distributed API hosting for long-running geospatial ML model inference on Azure/Kubernetes
+
+* :sunglasses: [pygeoweaver](https://github.com/ESIPFed/pygeoweaver) - Python library for AI & geospatial workflow management, FAIRness, tangibility and productivity improvement
+
+* [segment-geospatial (samgeo)](https://github.com/opengeos/segment-geospatial) [docs](https://samgeo.gishub.org/) - Segment Anything Model (SAM) and HQ-SAM for geospatial imagery segmentation
+
+* [SeisBench](https://github.com/seisbench/seisbench) [docs](https://seisbench.readthedocs.io/) - Open toolbox for earthquake ML: phase picking, event detection, pretrained models, and benchmark datasets
+
+* :sunglasses: [TerraTorch](https://github.com/IBM/terratorch) [paper](https://arxiv.org/abs/2503.20563) - Fine-tuning and benchmarking toolkit for geospatial foundation models; integrates with GEO-Bench-2 and Hugging Face weights
+
+* [torch-harmonics](https://github.com/NVIDIA/torch-harmonics) - Differentiable signal processing on the sphere for geometric weather ML; BSD-3-Clause
+
+* :sunglasses: [TorchGeo](https://github.com/torchgeo/torchgeo) [docs](https://torchgeo.readthedocs.io/) - PyTorch domain library with 100+ geospatial datasets, spatial samplers, multispectral transforms, and pretrained backbones
+
+* [WeatherBench 2](https://github.com/google-research/weatherbench2) [docs](https://weatherbench2.readthedocs.io/) - Open evaluation framework and leaderboard for data-driven global weather models
+
+* [Xarray-Beam](https://github.com/google/xarray-beam) - Python library for building Apache Beam pipelines with Xarray datasets
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
 
 ## Foundation Models
 
-Open pretrained models for Earth observation, weather, and climate. We list models with publicly released weights and permissive open-source licenses.
+Pretrained model weights and primary model repositories for Earth observation, weather, and climate. Sorted alphabetically within each group. For fine-tuning toolkits and benchmarks, see [Tools](#tools). For task-specific application code and vision-language models, see [Code](#code).
 
 ### Earth Observation
 
-* :sunglasses::sparkling_heart: [Prithvi-EO-2.0](https://github.com/NASA-IMPACT/Prithvi-EO-2.0) [weights](https://huggingface.co/ibm-nasa-geospatial) [paper](https://arxiv.org/abs/2412.02732) - Multi-temporal ViT foundation model (300M/600M) trained on 4.2M global HLS time series at 30 m
+* [AlphaEarth Foundations](https://arxiv.org/abs/2507.22291) [embeddings](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL) - Global 10 m embedding field layers (2017–2024) for sparse-label mapping; annual embeddings on Google Earth Engine and GCS
 
 * :sunglasses::sparkling_heart: [Clay](https://github.com/Clay-foundation/model) [docs](https://clay-foundation.github.io/model/) [weights](https://huggingface.co/made-with-clay/Clay) - Sensor-agnostic MAE foundation model (v1.5) for EO embeddings across Sentinel-2, Landsat, Sentinel-1, and custom sensors; Apache 2.0
 
-* [TerraMind](https://github.com/ibm/terramind) [weights](https://huggingface.co/ibm-esa-geospatial) [paper](https://arxiv.org/abs/2504.11171) - Any-to-any generative multimodal EO foundation model (IBM/ESA Φ-lab); integrates with TerraTorch
+* [Copernicus-FM](https://github.com/zhu-xlab/Copernicus-FM) [paper](https://arxiv.org/abs/2503.11849) - Unified Copernicus foundation model across Sentinel missions with Copernicus-Pretrain and Copernicus-Bench
 
 * [DOFA](https://github.com/zhu-xlab/DOFA) [paper](https://arxiv.org/abs/2403.15356) - Dynamic One-For-All multimodal foundation model with wavelength-conditioned hypernetworks for cross-sensor generalization
 
-* [Copernicus-FM](https://github.com/zhu-xlab/Copernicus-FM) [paper](https://arxiv.org/abs/2503.11849) - Unified Copernicus foundation model across Sentinel missions with Copernicus-Pretrain and Copernicus-Bench
+* :sunglasses::sparkling_heart: [Prithvi-EO-2.0](https://github.com/NASA-IMPACT/Prithvi-EO-2.0) [weights](https://huggingface.co/ibm-nasa-geospatial) [paper](https://arxiv.org/abs/2412.02732) - Multi-temporal ViT foundation model (300M/600M) trained on 4.2M global HLS time series at 30 m; fine-tune via [TerraTorch](#tools)
 
-* [AlphaEarth Foundations](https://arxiv.org/abs/2507.22291) [embeddings](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL) - Global 10 m embedding field layers (2017–2024) for sparse-label mapping; annual embeddings on Google Earth Engine and GCS
+* [TerraMind](https://github.com/ibm/terramind) [weights](https://huggingface.co/ibm-esa-geospatial) [paper](https://arxiv.org/abs/2504.11171) - Any-to-any generative multimodal EO foundation model (IBM/ESA Φ-lab); fine-tune via [TerraTorch](#tools)
 
 ### Weather and Climate
 
-* :sunglasses::sparkling_heart: [Prithvi-WxC](https://github.com/NASA-IMPACT/Prithvi-WxC) [weights](https://huggingface.co/Prithvi-WxC) [paper](https://arxiv.org/abs/2409.13598) - 2.3B-parameter weather/climate foundation model on MERRA-2 for forecasting, downscaling, and parameterization
+* [Aurora](https://github.com/microsoft/aurora) [docs](https://microsoft.github.io/aurora/) [paper](https://arxiv.org/abs/2405.13063) - 1.3B-parameter atmospheric foundation model for weather, air pollution, and ocean waves
+
+* [FourCastNet 3](https://arxiv.org/abs/2507.12144) - Probabilistic spherical-convolution weather ensemble forecasting at 0.25°; training via [Makani](#tools)
 
 * [GraphCast / GenCast](https://github.com/google-deepmind/graphcast) [GraphCast paper](https://arxiv.org/abs/2212.12794) [GenCast paper](https://arxiv.org/abs/2312.15796) - GNN-based medium-range global weather forecasting and diffusion ensemble forecasting; Apache 2.0
 
-* [Aurora](https://github.com/microsoft/aurora) [docs](https://microsoft.github.io/aurora/) [paper](https://arxiv.org/abs/2405.13063) - 1.3B-parameter atmospheric foundation model for weather, air pollution, and ocean waves
-
 * [NeuralGCM](https://github.com/neuralgcm/neuralgcm) [dycore](https://github.com/neuralgcm/dinosaur) [paper](https://arxiv.org/abs/2311.07222) - Differentiable hybrid general circulation model combining physics-based dynamics with learned components; Apache 2.0 code, CC BY-SA 4.0 weights
 
-* [FourCastNet 3](https://arxiv.org/abs/2507.12144) [training code](https://github.com/NVIDIA/makani) - Probabilistic spherical-convolution weather ensemble forecasting at 0.25°; open training via Makani
+* :sunglasses::sparkling_heart: [Prithvi-WxC](https://github.com/NASA-IMPACT/Prithvi-WxC) [weights](https://huggingface.co/Prithvi-WxC) [paper](https://arxiv.org/abs/2409.13598) - 2.3B-parameter weather/climate foundation model on MERRA-2 for forecasting, downscaling, and parameterization
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
@@ -257,19 +227,23 @@ Open pretrained models for Earth observation, weather, and climate. We list mode
 
 ## Code
 
+Task-specific implementations and Earth-facing applications. Foundation model weights live under [Foundation Models](#foundation-models); fine-tuning toolkits under [Tools](#tools).
+
 * :sunglasses::sparkling_heart: [Earth System Emulator (ESEm)](https://github.com/duncanwp/ESEm) - A tool for emulating geophysical datasets including (but not limited to) Earth System Models
 
 * :sunglasses::sparkling_heart: [EmissionAI](https://github.com/ZihengSun/EmissionAI) - Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission from Space
 
-* [Prithvi-EO-2.0 Fine-tuning Examples](https://github.com/NASA-IMPACT/Prithvi-EO-2.0) - TerraTorch configs for burn scars, flood mapping, crop type, and multi-temporal land cover
-
-* [TEOChat](https://github.com/ermongroup/TEOChat) [paper](https://arxiv.org/abs/2410.06234) - Temporal vision-language assistant for change detection, damage assessment, and EO dialogue
+* [EarthDial](https://github.com/hiyamdebary/EarthDial) [paper](https://arxiv.org/abs/2412.15190) - Multi-spectral, multi-temporal vision-language model for EO dialogue across 44 downstream datasets
 
 * [GeoChat](https://github.com/mbzuai-oryx/GeoChat) [paper](https://arxiv.org/abs/2311.15826) - Grounded large vision-language model for remote sensing QA, captioning, and referring detection
 
-* [EarthDial](https://github.com/hiyamdebary/EarthDial) [paper](https://arxiv.org/abs/2412.15190) - Multi-spectral, multi-temporal vision-language model for EO dialogue across 44 downstream datasets
+* [Global Forest Watch](https://www.globalforestwatch.org/) - ML-powered deforestation and forest cover change monitoring from satellite imagery
 
-* [Copernicus-FM](https://github.com/zhu-xlab/Copernicus-FM) - Unified Copernicus foundation model with pretraining and benchmark code (ICCV 2025)
+* [iNaturalist Computer Vision](https://www.inaturalist.org/pages/computer_vision_demo) - Species identification from community-contributed observations (76,000+ taxa)
+
+* [TEOChat](https://github.com/ermongroup/TEOChat) [paper](https://arxiv.org/abs/2410.06234) - Temporal vision-language assistant for change detection, damage assessment, and EO dialogue
+
+* [Wildlife Insights](https://www.wildlifeinsights.org/) - Automated species identification from camera trap images; integrates with GBIF
 
 * [BassNet](https://github.com/hbutsuak95/BASS-Net),[paper-preprint](https://arxiv.org/abs/1612.00144) - Deep Learning for Land-cover Classification in Hyperspectral Images, 
 
@@ -443,6 +417,24 @@ Open pretrained models for Earth observation, weather, and climate. We list mode
 - [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - ![Awesome](media/icon/awesome.png) A curated list of awesome open source workflow engines
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - ![Awesome](media/icon/awesome.png) A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - ![Awesome](media/icon/awesome.png) A curated list of awesome Machine Learning frameworks, libraries and software
+
+### General ML infrastructure (companion tools)
+
+These are useful in Earth AI workflows but are not Earth-specific; we list them here rather than in [Tools](#tools).
+
+- [BentoML](https://github.com/bentoml/BentoML) – Open-source framework for high-performance ML model serving
+- [Dopamine](https://github.com/google/dopamine) – Research framework for reinforcement learning prototyping
+- [flashlight](https://github.com/facebookresearch/flashlight) – C++ standalone library for machine learning
+- [MindsDB](https://github.com/mindsdb/mindsdb) – Explainable AutoML framework on PyTorch
+- [Netron](https://github.com/lutzroeder/netron) – Neural network and ONNX/Keras/TFLite model visualizer
+- [ml.js](https://github.com/mljs/ml) – Machine learning tools in JavaScript
+- [MLflow](https://github.com/mlflow/mlflow) – Machine learning lifecycle platform
+- [OneFlow](https://github.com/Oneflow-Inc/oneflow) – Performance-centered open-source deep learning framework
+- [Polyaxon](https://github.com/polyaxon/polyaxon) – ML platform for Kubernetes training and monitoring
+- [Snips NLU](https://github.com/snipsco/snips-nlu) – Natural language understanding for structured extraction from text
+- [SynapseML](https://github.com/microsoft/SynapseML) – Scalable ML pipelines on Apache Spark
+- [TensorFlow Hub](https://github.com/tensorflow/hub) – Repository of reusable TensorFlow SavedModels
+- [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) – AutoML library on Apache Spark (Scala)
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
