@@ -85,6 +85,10 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 Earth observation, geospatial, weather, and climate software only. Entries are sorted alphabetically by name. `:sunglasses:` marks maintainer picks for this list (not a quality tier). For pretrained model weights, see [Foundation Models](#foundation-models). For general ML infrastructure, see [RelatedAwesome](#relatedawesome).
 
+* [AI Agent by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Agent) - QGIS plugin: an AI agent that takes a plain-language task, finds the data, runs the analysis and builds the map, with one-click undo
+
+* [AI Edit by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Edit) - QGIS plugin: edit aerial and satellite imagery from a text prompt (land cover, building extraction, object removal, flood simulation), georeferenced output
+
 * [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) - QGIS plugin for point-and-click segmentation of buildings, trees and any object in satellite and drone imagery into vector polygons, with a free CPU-only local mode
 
 * [ai-models](https://github.com/ecmwf-lab/ai-models) - Open-source CLI to run AI weather models (GraphCast, FourCastNet, Pangu-Weather) with ECMWF data pipelines
