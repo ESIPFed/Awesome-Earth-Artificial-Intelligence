@@ -352,6 +352,8 @@ Task-specific implementations and Earth-facing applications. Foundation model we
 
 * [PCA-OS: A Planetary Climate Adaptation Operating System](https://chaoyue0307.github.io/PCA-OS/) (KDD 2026 Blue Sky Ideas Track) - Frames climate adaptation as a continual learning and decision loop over an intervention-aware global causal knowledge graph, fusing Earth-observation signals and operational traces into versioned, auditable adaptation interventions and robust decision portfolios.
 
+* [Ontology-Guided Knowledge Graph Construction from Structured Metadata and Climate Science Publications](https://aclanthology.org/2026.aacl-long.252/) (AACL 2026)
+
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
