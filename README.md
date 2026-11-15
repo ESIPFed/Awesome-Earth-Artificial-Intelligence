@@ -93,6 +93,8 @@ Earth observation, geospatial, weather, and climate software only. Entries are s
 
 * [ai-models](https://github.com/ecmwf-lab/ai-models) - Open-source CLI to run AI weather models (GraphCast, FourCastNet, Pangu-Weather) with ECMWF data pipelines
 
+* [arcgis-mcp-bridge](https://github.com/muend/arcgis-mcp-bridge) [PyPI](https://pypi.org/project/arcgis-mcp-bridge/) - Local MCP server exposing 100 ArcGIS Pro / ArcPy geoprocessing tools to LLM agents, with path guards and confirmation gates
+
 * [ClimateLearn](https://github.com/aditya-grover/climate-learn) [paper](https://arxiv.org/abs/2307.01909) - PyTorch library for weather forecasting and climate downscaling benchmarks (ERA5, CMIP6)
 
 * [EarthML](https://github.com/pyviz-topics/EarthML) [website](http://earthml.holoviz.org/) - Tools for working with machine learning in earth science
@@ -102,6 +104,8 @@ Earth observation, geospatial, weather, and climate software only. Entries are s
 * [GEO-Bench-2](https://github.com/The-AI-Alliance/GEO-Bench-2) [leaderboard](https://huggingface.co/spaces/aialliance/GEO-Bench-2-Leaderboard) [paper](https://arxiv.org/abs/2511.15658) - Reproducible benchmark for geospatial foundation models across 19 permissively licensed datasets
 
 * :sunglasses: [GeoAI](https://github.com/opengeos/geoai) [docs](https://opengeoai.org/) - Unified Python framework for EO deep learning: segmentation, detection, change detection, and foundation model workflows
+
+* [geoai-skills](https://github.com/muend/geoai-skills) - 18 Agent Skills that instruct LLM agents which CRS, leakage, comparability and uncertainty checks to run before a geospatial claim
 
 * [GRIME AI](https://github.com/GRIME-Lab/GRIME-AI/wiki) [website](https://gaugecam.org/) - Ecohydrological workflow suite for ground-based time-lapse imagery, from acquisition through ML applications
 
@@ -116,6 +120,8 @@ Earth observation, geospatial, weather, and climate software only. Entries are s
 * [segment-geospatial (samgeo)](https://github.com/opengeos/segment-geospatial) [docs](https://samgeo.gishub.org/) - Segment Anything Model (SAM) and HQ-SAM for geospatial imagery segmentation
 
 * [SeisBench](https://github.com/seisbench/seisbench) [docs](https://seisbench.readthedocs.io/) - Open toolbox for earthquake ML: phase picking, event detection, pretrained models, and benchmark datasets
+
+* [sentinel-crop-pipeline](https://github.com/muend/sentinel-crop-pipeline) [PyPI](https://pypi.org/project/sentinel-crop-pipeline/) - Reproducible Sentinel-2 L2A data preparation for crop-classification models: masking, patches, spatially blocked splits, label masks
 
 * :sunglasses: [TerraTorch](https://github.com/IBM/terratorch) [paper](https://arxiv.org/abs/2503.20563) - Fine-tuning and benchmarking toolkit for geospatial foundation models; integrates with GEO-Bench-2 and Hugging Face weights
 
