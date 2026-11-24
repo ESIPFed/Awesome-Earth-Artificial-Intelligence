@@ -273,6 +273,8 @@ Task-specific implementations and Earth-facing applications. Foundation model we
 
 * [Infernis](https://github.com/argonBIsystems/infernis) - Open-source ML-powered wildfire risk prediction engine for British Columbia. XGBoost + CNN trained on 10 fire seasons (2015-2024) from 21 open government and scientific data sources. Provides a free [REST API](https://infernis.ca/v1/docs) with daily predictions at 5km resolution.
 
+* [FishID Studio](https://github.com/viniciusscience/fishid-studio) [DOI](https://doi.org/10.5281/zenodo.24451918) - Open-source computer vision and deep learning platform for automated identification of migratory marine fish species, fisheries electronic monitoring (EM), multi-object video tracking (ByteTrack + SAM 2), automated biometry, and visual explainability (ConvNeXt-Tiny + Grad-CAM). MIT licensed.
+
 
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
